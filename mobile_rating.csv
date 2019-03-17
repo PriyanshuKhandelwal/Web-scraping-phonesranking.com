@@ -1,0 +1,1526 @@
+,brand,name,rating,released,os
+0,acer,Acer Liquid Z530,65.0,Oct-2015,Android
+1,acer,Acer Liquid M220,46.5,May-2015,Windows
+2,acer,Acer Liquid Jade Z,65.89,Apr-2015,Android
+3,acer,Acer Liquid Z220,45.0,Apr-2015,Android
+4,acer,Acer Liquid Z410,70.0,Feb-2015,Android
+5,acer,Acer Liquid Jade S55,52.5,Dec-2014,Android
+6,acer,Acer Liquid E700,70.0,Aug-2014,Android
+7,acer,Acer Liquid Jade,65.0,Jul-2014,Android
+8,acer,Acer Liquid E3,60.0,Apr-2014,Android
+9,acer,Acer Liquid Z4,40.0,Apr-2014,Android
+10,acer,Acer Liquid Z5,60.0,Jan-2014,Android
+11,acer,Acer Liquid S2,74.14,Dec-2013,Android
+12,acer,Acer Liquid Z3,63.0,Sep-2013,Android
+13,acer,Acer Liquid S1,55.75,Aug-2013,Android
+14,acer,Acer Liquid S1 Duo,80.0,Aug-2013,Android
+15,acer,Acer Liquid E2,65.0,May-2013,Android
+16,acer,Acer Liquid E2 Duo,60.0,May-2013,Android
+17,acer,Acer Liquid E1,61.67,Mar-2013,Android
+18,acer,Acer Liquid E1 Duo,60.0,Mar-2013,Android
+19,acer,Acer Liquid Z2,66.67,Mar-2013,Android
+20,acer,Acer CloudMobile S500,70.56,Sep-2012,Android
+21,acer,Acer Liquid Gallant,90.0,Sep-2012,Android
+22,acer,Acer Liquid Glow,60.0,Aug-2012,Android
+23,acer,Acer Liquid Mini E310,58.57,Apr-2011,Android
+24,acer,Acer beTouch E210,56.0,Mar-2011,Android
+25,acer,Acer beTouch E140,55.0,Dec-2010,Android
+26,acer,Acer Liquid Metal,73.22,Nov-2010,Android
+27,acer,Acer beTouch E130,70.0,Aug-2010,Android
+28,acer,Acer Liquid E,66.67,Aug-2010,Android
+29,acer,Acer Liquid E Ferrari,50.0,Aug-2010,Android
+30,acer,Acer Stream,71.54,Aug-2010,Android
+31,acer,Acer NeoTouch P400,50.0,May-2010,Windows
+32,acer,Acer beTouch E400,62.0,Apr-2010,Android
+33,acer,Acer beTouch E110,45.0,May-2010,Android
+34,acer,Acer neoTouch P300,40.0,Mar-2010,Windows
+35,alcatel,Alcatel Idol 5s,71.0,Jul-2017,Android
+36,alcatel,Alcatel Idol 4s,75.15,Jul-2016,Android
+37,alcatel,Alcatel Fierce XL,60.0,Feb-2016,Windows
+38,alcatel,Alcatel One Touch Idol 3,77.86,May-2015,Android
+39,alcatel,Alcatel OneTouch Pixi 3,56.0,Mar-2015,Android
+40,alcatel,Alcatel One Touch Pop 2-4.5,51.5,Dec-2014,Android
+41,alcatel,Alcatel One Touch Pop Mega,60.0,Oct-2014,Android
+42,alcatel,Alcatel One Touch Fierce 2,50.0,Sep-2014,Android
+43,alcatel,Alcatel One Touch Hero 2,72.0,Sep-2014,Android
+44,alcatel,Alcatel One Touch Pop D3,75.0,Sep-2014,Android
+45,alcatel,Alcatel One Touch Pop D5,46.0,Sep-2014,Android
+46,alcatel,Alcatel One Touch 20.05,70.0,Aug-2014,Proprietary
+47,alcatel,Alcatel One Touch Idol 2S,77.5,Jul-2014,Android
+48,alcatel,Alcatel One Touch Idol 2 Mini S,70.5,Jun-2014,Android
+49,alcatel,Alcatel One Touch Idol X plus,71.25,May-2014,Android
+50,alcatel,Alcatel One Touch Pop S3,59.0,Apr-2014,Android
+51,alcatel,Alcatel One Touch Pop C1,40.0,Mar-2014,Android
+52,alcatel,Alcatel One Touch Idol Alpha,68.14,Feb-2014,Android
+53,alcatel,Alcatel One Touch Idol Mini,80.0,Dec-2013,Android
+54,alcatel,Alcatel One Touch Idol S,76.0,Dec-2013,Android
+55,alcatel,Alcatel One Touch Evolve,53.33,Oct-2013,Android
+56,alcatel,Alcatel One Touch Fierce,55.0,Oct-2013,Android
+57,alcatel,Alcatel One Touch Hero,87.0,Oct-2013,Android
+58,alcatel,Alcatel One Touch Fire,30.0,Jul-2013,Firefox
+59,alcatel,Alcatel One Touch Idol X,75.2,Jul-2013,Android
+60,alcatel,Alcatel One Touch Idol,65.0,May-2013,Android
+61,alcatel,Alcatel One Touch Idol Ultra,65.0,Apr-2013,Android
+62,alcatel,Alcatel One Touch Star,60.0,Mar-2013,Android
+63,alcatel,Alcatel One Touch 768,50.0,Jan-2013,Android
+64,alcatel,Alcatel Authority,50.0,Oct-2012,Android
+65,alcatel,Alcatel One Touch Shockwave,30.0,Oct-2012,Android
+66,alcatel,Alcatel One Touch 903,80.0,Aug-2012,Android
+67,alcatel,Alcatel One Touch Premiere,40.0,Aug-2012,Android
+68,alcatel,Alcatel One Touch 720,50.0,Apr-2012,Proprietary
+69,alcatel,Alcatel One Touch 916,67.5,Apr-2012,Proprietary
+70,alcatel,Alcatel One Touch 916 Smart,40.0,Apr-2012,Proprietary
+71,alcatel,Alcatel One Touch 995,67.5,Feb-2012,Android
+72,alcatel,Alcatel One Touch 282,63.33,Dec-2011,Proprietary
+73,alcatel,Alcatel One Touch 990,66.67,Nov-2011,Android
+74,alcatel,Alcatel One Touch 810,70.0,Oct-2011,Proprietary
+75,alcatel,Alcatel One Touch 602,67.5,Jul-2011,Proprietary
+76,alcatel,Alcatel One Touch 355,70.0,Mar-2011,Proprietary
+77,alcatel,Alcatel One Touch 980,50.0,Aug-2010,Android
+78,alcatel,Alcatel One Touch 255,60.0,Jun-2010,Proprietary
+79,alcatel,Alcatel One Touch Xtra,60.0,Mar-2010,Proprietary
+80,alcatel,Alcatel One Touch 808,60.0,Feb-2010,Proprietary
+81,amazon,Amazon Fire Phone,57.94,Jul-2014,Amazon
+82,apple,Apple iPhone XR,88.81,Oct-2018,iOS
+83,apple,Apple iPhone XS,88.31,Oct-2018,iOS
+84,apple,Apple iPhone XS Max,88.48,Oct-2018,iOS
+85,apple,Apple iPhone X,89.94,Nov-2017,iOS
+86,apple,Apple iPhone 8,81.11,Sep-2017,iOS
+87,apple,Apple iPhone 8 Plus,85.38,Sep-2017,iOS
+88,apple,Apple iPhone 7,84.91,Sep-2016,iOS
+89,apple,Apple iPhone 7 Plus,88.47,Sep-2016,iOS
+90,apple,Apple iPhone SE,86.03,Mar-2016,iOS
+91,apple,Apple iPhone 6s,89.66,Sep-2015,iOS
+92,apple,Apple iPhone 6s plus,87.73,Sep-2015,iOS
+93,apple,Apple iPhone 6,90.96,Sep-2014,iOS
+94,apple,Apple iPhone 6 Plus,87.1,Sep-2014,iOS
+95,apple,Apple iPhone 5S,88.91,Sep-2013,iOS
+96,apple,Apple iPhone 5C,78.19,Sep-2013,iOS
+97,apple,Apple iPhone 5,87.06,Sep-2012,iOS
+98,apple,Apple iPhone 4S,86.03,Oct-2011,iOS
+99,apple,Apple iPhone 4,88.21,Jun-2010,iOS
+100,archos,Archos 50 Oxygen plus,80.0,Mar-2015,Android
+101,archos,Archos 52 Platinum,58.0,Mar-2015,Android
+102,archos,Archos 50 Diamond,80.0,Jan-2015,Android
+103,archos,Archos 50b Platinum,40.0,Sep-2014,Android
+104,archos,Archos 50c Oxygen,90.0,Apr-2014,Android
+105,archos,Archos 50 Oxygen,73.0,Feb-2014,Android
+106,archos,Archos 50 Helium,53.33,Jan-2014,Android
+107,archos,Archos 50 Platinum,63.75,Nov-2013,Android
+108,archos,Archos 45 Platinum,60.0,Oct-2013,Android
+109,archos,Archos 40 Titanium,60.0,Oct-2013,Android
+110,archos,Archos 35 Smart Home Phone,60.0,Aug-2011,Proprietary
+111,asus,Asus Zenfone AR,70.53,Jun-2017,Android
+112,asus,Asus Zenfone 3,74.71,Aug-2016,Android
+113,asus,Asus Zenfone Max,70.83,Jan-2016,Android
+114,asus,Asus Zenfone Zoom,70.33,Dec-2015,Android
+115,asus,Asus Zenfone Selfie,76.0,Aug-2015,Android
+116,asus,Asus Zenfone 2,76.14,Mar-2015,Android
+117,asus,Asus ZenFone C,65.5,Feb-2015,Android
+118,asus,Asus Padfone X Mini,57.5,Oct-2014,Android
+119,asus,Asus PadFone X,72.75,Jul-2014,Android
+120,asus,Asus ZenFone 6,73.75,May-2014,Android
+121,asus,Asus ZenFone 4,64.44,May-2014,Android
+122,asus,Asus Zenfone 5,75.63,Apr-2014,Android
+123,asus,Asus PadFone Infinity,60.0,Apr-2013,Android
+124,asus,Asus PadFone 2,76.81,Dec-2012,Android
+125,asus,Asus PadFone,64.67,Jun-2012,Android
+126,blackberry,BlackBerry KEY2,71.61,Jun-2018,Android
+127,blackberry,BlackBerry Motion,75.56,Dec-2017,Android
+128,blackberry,BlackBerry KEYone,77.53,Apr-2017,Android
+129,blackberry,BlackBerry DTEK50,69.95,Aug-2016,Android
+130,blackberry,BlackBerry Priv,79.82,Nov-2015,Android
+131,blackberry,BlackBerry Leap,67.58,Apr-2015,Blackberry
+132,blackberry,BlackBerry Classic,66.92,Dec-2014,Blackberry
+133,blackberry,BlackBerry Passport,71.11,Sep-2014,Blackberry
+134,blackberry,BlackBerry Z3,70.33,May-2014,Blackberry
+135,blackberry,BlackBerry Z30,69.88,Oct-2013,Blackberry
+136,blackberry,BlackBerry 9720,46.0,Aug-2013,Blackberry
+137,blackberry,BlackBerry Q5,65.05,Jun-2013,Blackberry
+138,blackberry,BlackBerry Q10,72.48,Apr-2013,Blackberry
+139,blackberry,BlackBerry Z10,71.6,Jan-2013,Blackberry
+140,blackberry,BlackBerry Curve 9220,75.0,May-2012,Blackberry
+141,blackberry,BlackBerry Curve 9315,50.0,May-2012,Blackberry
+142,blackberry,BlackBerry Curve 9320,70.0,May-2012,Blackberry
+143,blackberry,BlackBerry Bold 9790,65.38,Dec-2011,Blackberry
+144,blackberry,BlackBerry Curve 9380,64.17,Dec-2011,Blackberry
+145,blackberry,BlackBerryÂ Porsche Design P'9981,68.5,Dec-2011,Blackberry
+146,blackberry,BlackBerry Curve 9350,67.5,Sep-2011,Blackberry
+147,blackberry,BlackBerry Curve 9370,55.5,Sep-2011,Blackberry
+148,blackberry,BlackBerry Torch 9860,61.75,Sep-2011,Blackberry
+149,blackberry,BlackBerry Bold 9900,79.47,Aug-2011,Blackberry
+150,blackberry,BlackBerry Bold 9930,69.29,Aug-2011,Blackberry
+151,blackberry,BlackBerry Bold Touch 9900,75.0,Aug-2011,Blackberry
+152,blackberry,BlackBerry Curve 9360,68.89,Aug-2011,Blackberry
+153,blackberry,BlackBerry Torch 9810,64.72,Aug-2011,Blackberry
+154,blackberry,BlackBerry Torch 9850,63.0,Aug-2011,Blackberry
+155,blackberry,BlackBerry Bold 9780,77.46,Nov-2010,Blackberry
+156,blackberry,BlackBerry Style 9670,69.38,Nov-2010,Blackberry
+157,blackberry,BlackBerry Curve 3G 9300,68.65,Aug-2010,Blackberry
+158,blackberry,BlackBerry Curve 3G 9310,56.67,Aug-2010,Blackberry
+159,blackberry,BlackBerry Curve 3G 9330,70.0,Aug-2010,Blackberry
+160,blackberry,BlackBerry Torch 9800,73.6,Aug-2010,Blackberry
+161,blackberry,BlackBerry Bold 9650,74.83,Jul-2010,Blackberry
+162,blackberry,BlackBerry Pearl 3G 9100,72.5,May-2010,Blackberry
+163,blackberry,BlackBerry Pearl 3G 9105,86.67,May-2010,Blackberry
+164,blu,BLU Vivo 6,76.33,Nov-2016,Android
+165,blu,BLU Energy XL,73.67,Jul-2016,Android
+166,blu,BLU R1 HD,70.0,Jun-2016,Android
+167,blu,BLU Vivo 5,68.33,Feb-2016,Android
+168,blu,BLU Vivo XL,77.5,Jan-2016,Android
+169,blu,BLU Life One X,86.5,Dec-2015,Android
+170,blu,BLU Studio Energy 2,77.0,Sep-2015,Android
+171,blu,BLU Pure XL,72.25,Sep-2015,Android
+172,blu,BLU Life 8 XL,66.5,May-2015,Android
+173,blu,BLU Life One 2015,71.0,Apr-2015,Android
+174,blu,BLU Selfie,62.5,Apr-2015,Android
+175,blu,BLU Studio G,60.0,Jan-2015,Android
+176,blu,BLU Studio X Plus,70.0,Jan-2015,Android
+177,blu,BLU Studio Energy,70.0,Jan-2015,Android
+178,blu,BLU Vivo Air,80.0,Jan-2015,Android
+179,blu,BLU Win HD,68.5,Sep-2014,Windows
+180,blu,BLU Life Pure XL,67.5,May-2014,Android
+181,blu,BLU Studio 5.5,40.0,Oct-2013,Android
+182,blu,BLU Life Play,60.0,Apr-2013,Android
+183,blu,BLU Tango,50.0,Dec-2010,Android
+184,blu,BLU Speed,70.0,Oct-2010,Proprietary
+185,cat,CAT S41,73.43,Sep-2017,Android
+186,cat,CAT S60,71.54,Jun-2016,Android
+187,cat,CAT S40,62.75,Aug-2015,Android
+188,cat,CAT S50,60.0,Nov-2014,Android
+189,cat,CAT B15Q,55.0,Jun-2014,Android
+190,cat,CAT B100,60.0,Mar-2014,Proprietary
+191,cat,CAT B15,57.25,Mar-2013,Android
+192,cat,CAT B25,0.0,Jun-2012,Proprietary
+193,celkon,Celkon Q455 Vogue,70.0,Jul-2014,Android
+194,celkon,Celkon A112 Signature Swift,40.0,Aug-2013,Android
+195,celkon,Celkon A119Q Signature HD,60.0,Apr-2013,Android
+196,celkon,Celkon A200,57.5,Dec-2012,Android
+197,gionee,Gionee A1,70.0,Apr-2017,Android
+198,gionee,Gionee S6s,68.5,Aug-2016,Android
+199,gionee,Gionee Elife S Plus,60.0,Dec-2015,Android
+200,gionee,Gionee S6,71.67,Nov-2015,Android
+201,gionee,Gionee Marathon M5,77.67,Nov-2015,Android
+202,gionee,Gionee Elife E8,78.0,Oct-2015,Android
+203,gionee,Gionee F103,69.33,Sep-2015,Android
+204,gionee,Gionee Marathon M4,70.0,Aug-2015,Android
+205,gionee,Gionee Elife S7,80.0,Apr-2015,Android
+206,gionee,Gionee Pioneer P6,67.0,Jan-2015,Android
+207,gionee,Gionee Elife S5.1,65.25,Nov-2014,Android
+208,gionee,Gionee Marathon M3,70.0,Nov-2014,Android
+209,gionee,Gionee Elife S5.5,60.0,Mar-2014,Android
+210,gionee,Gionee Elife E7,70.0,Dec-2013,Android
+211,gionee,Gionee Elife E6,67.5,Jul-2013,Android
+212,gionee,Gionee Dream D1,80.0,May-2013,Android
+213,gionee,Gionee Elife E3,67.5,May-2013,Android
+214,google,Google Pixel 3,88.76,Nov-2018,Android
+215,google,Google Pixel 3 XL,85.44,Nov-2018,Android
+216,google,Google Pixel 2,82.86,Oct-2017,Android
+217,google,Google Pixel 2 XL,83.13,Oct-2017,Android
+218,google,Google Pixel,84.72,Oct-2016,Android
+219,google,Google Pixel XL,86.81,Oct-2016,Android
+220,htc,HTC U12 plus,70.04,Jun-2018,Android
+221,htc,HTC U11 Life,75.27,Nov-2017,Android
+222,htc,HTC U11,86.35,Jun-2017,Android
+223,htc,HTC U Ultra,69.31,Feb-2017,Android
+224,htc,HTC U Play,69.4,Feb-2017,Android
+225,htc,HTC 10 evo,68.0,Nov-2016,Android
+226,htc,HTC Bolt,66.0,Nov-2016,Android
+227,htc,HTC 10,86.83,May-2016,Android
+228,htc,HTC Desire 530,51.09,Mar-2016,Android
+229,htc,HTC One A9,73.21,Nov-2015,Android
+230,htc,HTC Desire 828,70.0,Nov-2015,Android
+231,htc,HTC One ME,80.0,Jul-2015,Android
+232,htc,HTC One M9 plus,77.86,May-2015,Android
+233,htc,HTC One E9 plus,60.0,May-2015,Android
+234,htc,HTC One M8s,83.57,Apr-2015,Android
+235,htc,HTC One M9,80.82,Mar-2015,Android
+236,htc,HTC Desire 820s,75.0,Mar-2015,Android
+237,htc,HTC Desire 626,63.53,Mar-2015,Android
+238,htc,HTC Desire 826,81.0,Feb-2015,Android
+239,htc,HTC Desire 320,70.0,Jan-2015,Android
+240,htc,HTC Desire 526G plus,70.0,Jan-2015,Android
+241,htc,HTC Desire 620,76.0,Dec-2014,Android
+242,htc,HTC Desire 820,78.69,Nov-2014,Android
+243,htc,HTC Desire Eye,81.63,Nov-2014,Android
+244,htc,HTC One M8 for Windows,81.36,Nov-2014,Windows
+245,htc,HTC Desire 612,70.0,Oct-2014,Android
+246,htc,HTC One M8 Eye,80.0,Oct-2014,Android
+247,htc,HTC Butterfly 2,78.33,Sep-2014,Android
+248,htc,HTC Desire 510,63.13,Sep-2014,Android
+249,htc,HTC One Remix,72.89,Jul-2014,Android
+250,htc,HTC Desire 516 Dual SIM,69.0,Jun-2014,Android
+251,htc,HTC Desire 616,65.0,Jun-2014,Android
+252,htc,HTC One E8,79.57,Jun-2014,Android
+253,htc,HTC Desire 610,61.19,May-2014,Android
+254,htc,HTC One Mini 2,80.76,May-2014,Android
+255,htc,HTC Desire 310,55.0,Apr-2014,Android
+256,htc,HTC Desire 816,77.23,Mar-2014,Android
+257,htc,HTC One M8,91.46,Mar-2014,Android
+258,htc,HTC Desire 501,70.0,Feb-2014,Android
+259,htc,HTC Desire 700,75.0,Jan-2014,Android
+260,htc,HTC Desire 300,69.5,Dec-2013,Android
+261,htc,HTC Desire 601,68.33,Oct-2013,Android
+262,htc,HTC Desire 601 Dual SIM,60.0,Oct-2013,Android
+263,htc,HTC One Max,69.97,Oct-2013,Android
+264,htc,HTC One Mini,78.41,Oct-2013,Android
+265,htc,HTC Desire 500,69.6,Sep-2013,Android
+266,htc,HTC Butterfly S,80.0,Jul-2013,Android
+267,htc,HTC Desire 200,65.0,Jul-2013,Android
+268,htc,HTC 8XT,66.25,Oct-2011,Android
+269,htc,HTC Desire 600 Dual Sim,68.33,Jun-2013,Android
+270,htc,HTC First,70.56,Apr-2013,Android
+271,htc,HTC One,90.5,Mar-2013,Android
+272,htc,HTC Butterfly,73.33,Jan-2013,Android
+273,htc,HTC One SV,72.05,Jan-2013,Android
+274,htc,HTC Desire SV,55.0,Nov-2012,Android
+275,htc,HTC Droid DNA,81.33,Nov-2012,Android
+276,htc,HTC One VX,71.25,Nov-2012,Android
+277,htc,HTC One X plus,86.25,Nov-2012,Android
+278,htc,HTC Windows Phone 8S,72.45,Nov-2012,Windows
+279,htc,HTC Windows Phone 8X,78.69,Nov-2012,Windows
+280,htc,HTC Desire X,79.85,Oct-2012,Android
+281,htc,HTC J,75.0,Aug-2012,Android
+282,htc,HTC Incredible 4G LTE,73.33,Jul-2012,Android
+283,htc,HTC Desire C,61.88,Jun-2012,Android
+284,htc,HTC Desire V,80.0,Jun-2012,Android
+285,htc,HTC Evo 4G LTE,77.33,May-2012,Android
+286,htc,HTC Evo V,75.0,May-2012,Android
+287,htc,HTC One X,86.94,May-2012,Android
+288,htc,HTC One XL,80.0,May-2012,Android
+289,htc,HTC One S,80.68,Apr-2012,Android
+290,htc,HTC One V,77.3,Apr-2012,Android
+291,htc,HTC Titan II,70.75,Apr-2012,Windows
+292,htc,HTC Velocity,80.0,Jan-2012,Android
+293,htc,HTC Rezound,77.42,Nov-2011,Android
+294,htc,HTC Sensation XL,75.71,Nov-2011,Android
+295,htc,HTC Vivid,70.0,Nov-2011,Android
+296,htc,HTC Amaze,79.8,Oct-2011,Android
+297,htc,HTC Evo Design,78.0,Oct-2011,Android
+298,htc,HTC Explorer,66.36,Oct-2011,Android
+299,htc,HTC Radar,74.14,Oct-2011,Windows
+300,htc,HTC Rhyme,73.48,Oct-2011,Android
+301,htc,HTC Sensation XE,81.43,Oct-2011,Android
+302,htc,HTC Titan,76.92,Oct-2011,Windows
+303,htc,HTC Evo 3D,73.75,Jul-2011,Android
+304,htc,HTC Status,65.5,Jul-2011,Android
+305,htc,HTC ChaCha,73.21,Jun-2011,Android
+306,htc,HTC ChaCha Touch-and-type,75.0,Jun-2011,Android
+307,htc,HTC HD7S,68.0,Jun-2011,Windows
+308,htc,HTC Hero S,70.0,Jun-2011,Windows
+309,htc,HTC Salsa,71.5,Jun-2011,Android
+310,htc,HTC Sensation,84.96,May-2011,Android
+311,htc,HTC Trophy,71.67,May-2011,Windows
+312,htc,HTC Wildfire S,68.61,May-2011,Android
+313,htc,HTC Droid Incredible 2,75.5,Apr-2011,Android
+314,htc,HTC Merge,70.0,Apr-2011,Android
+315,htc,HTC Arrive,76.17,Mar-2011,Windows
+316,htc,HTC Desire S,79.12,Mar-2011,Android
+317,htc,HTC Thunderbolt,80.9,Mar-2011,Android
+318,htc,HTC Freestyle,66.67,Feb-2011,Proprietary
+319,htc,HTC Incredible S,79.95,Feb-2011,Android
+320,htc,HTC Inspire,80.6,Feb-2011,Android
+321,htc,HTC 7 Pro,70.0,Jan-2011,Windows
+322,htc,HTC Evo Shift,74.13,Jan-2011,Android
+323,htc,HTC Desire Z,82.07,Nov-2010,Android
+324,htc,HTC Gratia,73.33,Nov-2010,Android
+325,htc,HTC Surround,70.83,Nov-2010,Windows
+326,htc,HTC 7 Mozart,78.75,Oct-2010,Windows
+327,htc,HTC 7 Trophy,75.42,Oct-2010,Windows
+328,htc,HTC Desire HD,89.33,Oct-2010,Android
+329,htc,HTC HD7,78.16,Oct-2010,Windows
+330,htc,HTC Aria,72.14,Jun-2010,Android
+331,htc,HTC Evo 4G,84.38,Jun-2010,Android
+332,htc,HTC Wildfire,78.75,May-2010,Android
+333,htc,HTC Droid Incredible,84.0,Apr-2010,Android
+334,htc,HTC HD Mini,74.0,Apr-2010,Windows
+335,htc,HTC Desire,87.5,Mar-2010,Android
+336,htc,HTC Legend,89.63,Mar-2010,Android
+337,htc,HTC Smart,61.5,Mar-2010,Proprietary
+338,htc,HTC Nexus One,82.65,Jan-2010,Android
+339,huawei,Huawei Mate 20 Pro,91.11,Nov-2018,Android
+340,huawei,Huawei Honor 8X,82.88,Sep-2018,Android
+341,huawei,Huawei Honor Play,81.24,Aug-2018,Android
+342,huawei,Huawei Honor 10,84.41,May-2018,Android
+343,huawei,Huawei P20,79.71,Apr-2018,Android
+344,huawei,Huawei P20 Pro,90.03,Apr-2018,Android
+345,huawei,Huawei Honor View 10,83.15,Jan-2018,Android
+346,huawei,Huawei Honor 7X,79.69,Dec-2017,Android
+347,huawei,Huawei P smart,78.56,Dec-2017,Android
+348,huawei,Huawei Mate 10,86.56,Nov-2017,Android
+349,huawei,Huawei Mate 10 Pro,88.0,Nov-2017,Android
+350,huawei,Huawei Honor 9,87.06,Jun-2017,Android
+351,huawei,Huawei Honor 8 Pro,83.78,Apr-2017,Android
+352,huawei,Huawei P10 Plus,83.94,Apr-2017,Android
+353,huawei,Huawei P10,77.96,Mar-2017,Android
+354,huawei,Huawei Mate 9,82.39,Nov-2016,Android
+355,huawei,Huawei Honor 6X,79.48,Oct-2016,Android
+356,huawei,Huawei Nova,74.93,Oct-2016,Android
+357,huawei,Huawei Nova plus,70.88,Oct-2016,Android
+358,huawei,Huawei Honor 8,80.04,Jul-2016,Android
+359,huawei,Huawei Honor 5c,81.62,May-2016,Android
+360,huawei,Huawei P9 Plus,79.0,May-2016,Android
+361,huawei,Huawei P9,81.6,Apr-2016,Android
+362,huawei,Huawei Honor Holly 2 Plus,66.67,Feb-2016,Android
+363,huawei,Huawei Mate 8,78.62,Nov-2015,Android
+364,huawei,Huawei Honor 5X,73.71,Nov-2015,Android
+365,huawei,Huawei Nexus 6P,90.76,Sep-2015,Android
+366,huawei,Huawei Mate S,76.0,Sep-2015,Android
+367,huawei,Huawei Honor 7,79.29,Jul-2015,Android
+368,huawei,Huawei Y360,60.0,Jun-2015,Android
+369,huawei,Huawei P8,79.0,Apr-2015,Android
+370,huawei,Huawei SnapTo,62.5,Apr-2015,Android
+371,huawei,Huawei Honor 4C,67.5,Apr-2015,Android
+372,huawei,Huawei Ascend Y330,80.0,Mar-2015,Android
+373,huawei,Huawei Honor 6 Plus,80.9,Dec-2014,Android
+374,huawei,Huawei Ascend Y550,65.83,Nov-2014,Android
+375,huawei,Huawei Ascend G620S,70.0,Nov-2014,Android
+376,huawei,Huawei Honor 4X,75.2,Oct-2014,Android
+377,huawei,Huawei Ascend G7,79.42,Oct-2014,Android
+378,huawei,Huawei Ascend Mate 7,83.1,Oct-2014,Android
+379,huawei,Huawei Honor Holly,64.73,Oct-2014,Android
+380,huawei,Huawei Honor 6,77.14,Aug-2014,Android
+381,huawei,Huawei Ascend P7,74.68,Jun-2014,Android
+382,huawei,Huawei Ascend G6,66.67,May-2014,Android
+383,huawei,Huawei Ascend Y530,62.0,Feb-2014,Android
+384,huawei,Huawei Ascend Mate 2,72.43,Jan-2014,Android
+385,huawei,Huawei Honor 3C,66.67,Dec-2013,Android
+386,huawei,Huawei Honor 3X,70.0,Dec-2013,Android
+387,huawei,Huawei Pal,40.0,Sep-2013,Proprietary
+388,huawei,Huawei Valiant,60.0,Sep-2013,Android
+389,huawei,Huawei Vitria,60.0,Sep-2013,Android
+390,huawei,Huawei Ascend G525,40.0,Jul-2013,Android
+391,huawei,Huawei Ascend P6,69.25,Jun-2013,Android
+392,huawei,Huawei Prism II,50.0,Jun-2013,Android
+393,huawei,Huawei Ascend G510,71.0,Apr-2013,Android
+394,huawei,Huawei Ascend P2,72.23,Apr-2013,Android
+395,huawei,Huawei Ascend Mate,68.92,Mar-2013,Android
+396,huawei,Huawei Ascend Y300,70.0,Mar-2013,Android
+397,huawei,Huawei Premia,60.0,Mar-2013,Android
+398,huawei,Huawei Pinnacle 2,50.0,Feb-2013,Android
+399,huawei,Huawei Ascend W1,80.4,Jan-2013,Windows
+400,huawei,Huawei Verge,50.0,Nov-2012,Android
+401,huawei,Huawei Ascend G330,76.25,Oct-2012,Android
+402,huawei,Huawei Ascend Y,50.0,Oct-2012,Android
+403,huawei,Huawei Summit,60.0,Oct-2012,Android
+404,huawei,Huawei Ascend D quad XL,75.0,Sep-2012,Android
+405,huawei,Huawei Ascend D1 XL,60.0,Jul-2012,Android
+406,huawei,Huawei Blaze IDEOS X3,72.22,Jul-2012,Android
+407,huawei,Huawei Activa,40.0,Jun-2012,Android
+408,huawei,Huawei Ascend G300,81.82,May-2012,Android
+409,huawei,Huawei Ascend P1,73.5,May-2012,Android
+410,huawei,Huawei Ascend Y100,57.0,May-2012,Android
+411,huawei,Huawei Ascend Y200,40.0,May-2012,Android
+412,huawei,Huawei Astro Prism U8651,46.67,May-2012,Android
+413,huawei,Huawei Ascend Y210D,40.0,Mar-2012,Android
+414,huawei,Huawei Discovery Expedition,65.0,Dec-2011,Proprietary
+415,huawei,Huawei Honor,68.18,Dec-2011,Android
+416,huawei,Huawei Mercury,76.67,Dec-2011,Android
+417,huawei,Huawei Vision,60.0,Nov-2011,Android
+418,huawei,Huawei Pinnacle,60.0,Oct-2011,Proprietary
+419,huawei,Huawei Impulse,65.0,Sep-2011,Android
+420,huawei,Huawei IDEOS X5 Pro,80.0,Aug-2011,Android
+421,huawei,Huawei Ascend II,55.0,Jul-2011,Android
+422,huawei,Huawei M835,40.0,Jul-2011,Android
+423,huawei,Huawei Sonic,65.0,Jul-2011,Android
+424,huawei,Huawei Gaga IDEOS X1,65.0,Jun-2011,Android
+425,huawei,Huawei IDEOS X5,62.5,Apr-2011,Android
+426,huawei,Huawei M735,45.0,Jan-2011,Proprietary
+427,huawei,Huawei Ascend M860,60.0,Oct-2010,Android
+428,huawei,Huawei IDEOS,70.0,Sep-2010,Android
+429,huawei,Huawei M228,50.0,Apr-2010,Proprietary
+430,karbonn,Karbonn Titanium Mach Five,60.0,Aug-2015,Android
+431,karbonn,Karbonn Titanium Mach Two S360,60.0,Mar-2015,Android
+432,karbonn,Karbonn Machone Titanium S310,60.0,Jan-2015,Android
+433,karbonn,Karbonn Titanium S6,44.0,Nov-2014,Android
+434,karbonn,Karbonn Sparkle V,65.0,Sep-2014,Android
+435,karbonn,Karbonn A5S,58.0,May-2014,Android
+436,karbonn,Karbonn Titanium S9,40.0,Jul-2013,Android
+437,karbonn,Karbonn Titanium S5,60.0,May-2013,Android
+438,karbonn,Karbonn Titanium S1,55.0,Jan-2013,Android
+439,karbonn,Karbonn A21,65.0,Oct-2012,Android
+440,karbonn,Karbonn A7,70.0,Apr-2012,Android
+441,karbonn,Karbonn A1,50.0,Jul-2011,Android
+442,karbonn,Karbonn K25i,65.0,Jan-2011,Android
+443,kazam,Kazam Tornado 455L,60.0,Jun-2015,Android
+444,kazam,Kazam Tornado 348,68.73,Oct-2014,Android
+445,kyocera,Kyocera DuraForce XD,60.0,Nov-2015,Android
+446,kyocera,Kyocera DuraForce,73.33,Nov-2014,Android
+447,kyocera,Kyocera Hydro Life,56.67,Aug-2014,Android
+448,kyocera,Kyocera Brigadier,70.0,Jul-2014,Android
+449,kyocera,Kyocera DuraXV,72.0,Jun-2014,Android
+450,kyocera,Kyocera Hydro Icon,50.0,Jun-2014,Android
+451,kyocera,Kyocera Hydro Vibe,60.0,May-2014,Android
+452,kyocera,Kyocera Verve,65.0,Apr-2014,Android
+453,kyocera,Kyocera Contact,60.0,Feb-2014,Proprietary
+454,kyocera,Kyocera Hydro Plus,60.0,Jan-2014,Android
+455,kyocera,Kyocera Hydro Elite,64.33,Aug-2013,Android
+456,kyocera,Kyocera Hydro Edge,60.67,Jul-2013,Android
+457,kyocera,Kyocera Hydro XTRM,60.0,May-2013,Android
+458,kyocera,Kyocera Kona,56.67,Apr-2013,Proprietary
+459,kyocera,Kyocera Torque,76.38,Mar-2013,Android
+460,kyocera,Kyocera DuraPro,60.0,Feb-2013,Proprietary
+461,kyocera,Kyocera Event,53.33,Feb-2013,Android
+462,kyocera,Kyocera Rise,54.17,Aug-2012,Android
+463,kyocera,Kyocera Hydro,63.33,Jul-2012,Android
+464,kyocera,Kyocera DuraXT,66.67,Jun-2012,Proprietary
+465,kyocera,Kyocera DuraPlus,50.0,Mar-2012,Proprietary
+466,kyocera,Kyocera DuraCore,60.0,Nov-2011,Proprietary
+467,kyocera,Kyocera DuraMax,56.67,Oct-2011,Proprietary
+468,kyocera,Kyocera Brio,55.0,Sep-2011,Proprietary
+469,kyocera,Kyocera Milano,50.0,Sep-2011,Android
+470,kyocera,Kyocera Echo,63.57,Apr-2011,Android
+471,kyocera,Kyocera Torino,60.0,Mar-2011,Proprietary
+472,kyocera,Kyocera Domino,45.0,Feb-2011,Proprietary
+473,kyocera,Kyocera Sanyo Taho,71.67,Dec-2010,Proprietary
+474,kyocera,Kyocera Rio,55.0,Nov-2010,Proprietary
+475,kyocera,Kyocera Sanyo Vero,67.5,Oct-2010,Proprietary
+476,kyocera,Kyocera Sanyo Zio,56.67,Oct-2010,Android
+477,kyocera,Kyocera Sanyo Innuendo,65.0,Sep-2010,Proprietary
+478,kyocera,Kyocera Loft S2300,55.0,May-2010,Proprietary
+479,kyocera,Kyocera Laylo M1400,65.0,Mar-2010,Proprietary
+480,lava,Lava Pixel V2,60.0,Sep-2015,Android
+481,lava,Lava Iris X8,69.5,Feb-2015,Android
+482,lava,Lava Iris X1 Grand,70.0,Feb-2015,Android
+483,lava,Lava Iris Win1,80.0,Dec-2014,Windows
+484,lava,Lava Iris Fuel 60,70.0,Dec-2014,Android
+485,lava,Lava Iris X5,62.0,Sep-2014,Android
+486,lava,Lava Iris Pro 30 plus,75.0,Aug-2014,Android
+487,lava,Lava Iris X1,60.0,May-2014,Android
+488,lava,Lava Iris 504Q plus,75.0,Apr-2014,Android
+489,lava,Lava Iris Pro 20,65.0,Apr-2014,Android
+490,lava,Lava Iris 406Q,60.0,Apr-2014,Android
+491,lava,Lava Iris Pro 30,55.0,Jan-2014,Android
+492,lava,Lava 3G 402 plus,70.0,Dec-2013,Android
+493,lava,Lava Iris 504Q,70.0,Jun-2013,Android
+494,lava,Lava iris 455,55.0,May-2013,Android
+495,lava,Lava XOLO X900,68.5,Apr-2012,Android
+496,lava,Lava S12,70.0,Oct-2011,Android
+497,lava,Lava B8,55.0,Mar-2011,Proprietary
+498,lava,Lava A9 Dual SIM,60.0,Apr-2010,Proprietary
+499,lenovo,Lenovo P2,90.38,Nov-2016,Android
+500,lenovo,Lenovo Vibe K5 Plus,67.5,Apr-2016,Android
+501,lenovo,Lenovo Vibe K4 Note,74.0,Jan-2016,Android
+502,lenovo,Lenovo Vibe S1,77.5,Nov-2015,Android
+503,lenovo,Lenovo Vibe P1,80.0,Oct-2015,Android
+504,lenovo,Lenovo ZUK Z1,78.71,Sep-2015,Android
+505,lenovo,Lenovo Phab Plus,65.0,Sep-2015,Android
+506,lenovo,Lenovo A7000,70.0,Apr-2015,Android
+507,lenovo,Lenovo A6000 Plus,70.0,Apr-2015,Android
+508,lenovo,Lenovo K3 Note,80.0,Mar-2015,Android
+509,lenovo,Lenovo A6000,76.0,Jan-2015,Android
+510,lenovo,Lenovo Vibe X2,73.0,Oct-2014,Android
+511,lenovo,Lenovo Vibe Z2 Pro,73.33,Sep-2014,Android
+512,lenovo,Lenovo S660,70.0,Jun-2014,Android
+513,lenovo,Lenovo S860,65.0,May-2014,Android
+514,lenovo,Lenovo Vibe X S960,60.0,Dec-2013,Android
+515,lenovo,Lenovo Vibe Z,60.0,Nov-2013,Android
+516,lenovo,Lenovo K900,75.0,Apr-2013,Android
+517,lenovo,Lenovo S890,65.0,Jan-2013,Android
+518,lenovo,Lenovo P770,60.0,Jan-2013,Android
+519,lenovo,Lenovo P700i,70.0,Nov-2012,Android
+520,lenovo,Lenovo S880,65.0,Sep-2012,Android
+521,lg,LG V40 ThinQ,81.55,Oct-2018,Android
+522,lg,LG G7 ThinQ,79.9,May-2018,Android
+523,lg,LG V30,83.61,Sep-2017,Android
+524,lg,LG Q6,71.67,Aug-2017,Android
+525,lg,LG G6,85.67,Apr-2017,Android
+526,lg,LG V20,81.28,Oct-2016,Android
+527,lg,LG X Power,60.0,Sep-2016,Android
+528,lg,LG Stylus 2,66.8,Jun-2016,Android
+529,lg,LG G5,82.43,Apr-2016,Android
+530,lg,LG K8,62.0,Apr-2016,Android
+531,lg,LG X Screen,67.0,Mar-2016,Android
+532,lg,LG K10,65.75,Feb-2016,Android
+533,lg,LG K7,71.0,Feb-2016,Android
+534,lg,LG V10,81.4,Oct-2015,Android
+535,lg,LG Nexus 5X,80.31,Oct-2015,Android
+536,lg,LG G4 Beat,64.0,Aug-2015,Android
+537,lg,LG Tribute 2,50.0,Jul-2015,Android
+538,lg,LG Volt 2,60.0,Jul-2015,Android
+539,lg,LG G4C,65.82,Jun-2015,Android
+540,lg,LG G4 Stylus,66.0,May-2015,Android
+541,lg,LG G Stylo,66.4,May-2015,Android
+542,lg,LG Lancet,65.33,May-2015,Windows
+543,lg,LG Escape 2,71.0,May-2015,Android
+544,lg,LG G4,86.52,Apr-2015,Android
+545,lg,LG Leon,65.0,Apr-2015,Android
+546,lg,LG Magna,82.0,Apr-2015,Android
+547,lg,LG Spirit,67.5,Mar-2015,Android
+548,lg,LG G Flex2,78.2,Feb-2015,Android
+549,lg,LG F60,70.0,Oct-2014,Android
+550,lg,LG G3 Stylus,66.67,Oct-2014,Android
+551,lg,LG Tribute,75.0,Oct-2014,Android
+552,lg,LG L Bello,80.0,Sep-2014,Android
+553,lg,LG Unify,50.0,Sep-2014,Android
+554,lg,LG G Vista,68.5,Aug-2014,Android
+555,lg,LG G3 S Beat Vigor,69.64,Aug-2014,Android
+556,lg,LG Realm,60.0,Aug-2014,Android
+557,lg,LG G3,89.84,Jun-2014,Android
+558,lg,LG Volt,73.0,May-2014,Android
+559,lg,LG G Pro 2,80.3,Apr-2014,Android
+560,lg,LG G2 Mini,63.33,Apr-2014,Android
+561,lg,LG L40,80.0,Apr-2014,Android
+562,lg,LG L70,60.0,Apr-2014,Android
+563,lg,LG L90,60.0,Apr-2014,Android
+564,lg,LG L90 Dual,66.25,Apr-2014,Android
+565,lg,LG Lucid 3,66.0,Apr-2014,Android
+566,lg,LG Wine III,60.0,Apr-2014,Android
+567,lg,LG Xpression 2,60.0,Apr-2014,Android
+568,lg,LG Optimus L2 II,60.0,Mar-2014,Android
+569,lg,LG Optimus F3Q,65.0,Feb-2014,Android
+570,lg,LG G Flex,71.71,Nov-2013,Android
+571,lg,LG G Pro Lite,60.0,Nov-2013,Android
+572,lg,LG Nexus 5,87.19,Nov-2013,Android
+573,lg,LG Optimus L9 II,80.0,Oct-2013,Android
+574,lg,LG G2,86.16,Sep-2013,Android
+575,lg,LG Optimus F6,65.0,Sep-2013,Android
+576,lg,LG Enact,66.67,Aug-2013,Android
+577,lg,LG Exalt,55.0,Aug-2013,Proprietary
+578,lg,LG Optimus L4 II E440,60.0,Jul-2013,Android
+579,lg,LG Optimus F3,65.83,Jun-2013,Android
+580,lg,LG Optimus F7,74.17,Jun-2013,Android
+581,lg,LG Optimus GJ,80.0,Jun-2013,Android
+582,lg,LG Envoy II,50.0,May-2013,Proprietary
+583,lg,LG Optimus F5,60.0,May-2013,Android
+584,lg,LG Cosmos 3,45.0,Apr-2013,Proprietary
+585,lg,LG Lucid 2,71.88,Apr-2013,Android
+586,lg,LG Optimus G Pro,78.68,Apr-2013,Android
+587,lg,LG Optimus L1 II Dual,55.0,Apr-2013,Android
+588,lg,LG Optimus L3 II E430,50.0,Apr-2013,Android
+589,lg,LG Optimus L5 II E460,72.14,Apr-2013,Android
+590,lg,LG Revere 2,65.0,Apr-2013,Proprietary
+591,lg,LG Optimus L7 II DUAL,70.0,Mar-2013,Android
+592,lg,LG Optimus L7 II P710,72.5,Mar-2013,Android
+593,lg,LG MS870 Spirit,75.0,Jan-2013,Android
+594,lg,LG Mach,70.0,Dec-2012,Android
+595,lg,LG Nexus 4,83.38,Nov-2012,Android
+596,lg,LG Optimus G E970,80.33,Nov-2012,Android
+597,lg,LG Optimus G E975,76.33,Nov-2012,Android
+598,lg,LG Optimus G LS970,40.0,Nov-2012,Android
+599,lg,LG Optimus L9 P760,67.14,Nov-2012,Android
+600,lg,LG Optimus L9 P765,52.5,Nov-2012,Android
+601,lg,LG Optimus Vu P895,40.0,Nov-2012,Android
+602,lg,LG Spectrum 2,70.83,Oct-2012,Android
+603,lg,LG Venice,50.0,Oct-2012,Android
+604,lg,LG Escape,73.0,Sep-2012,Android
+605,lg,LG Intuition,57.25,Sep-2012,Android
+606,lg,LG Splendor,65.0,Sep-2012,Android
+607,lg,LG Motion,66.67,Aug-2012,Android
+608,lg,LG Optimus 4X HD,77.36,Jun-2012,Android
+609,lg,LG Optimus L5 E610,55.0,Jun-2012,Android
+610,lg,LG Optimus 3D Max,63.17,May-2012,Android
+611,lg,LG Optimus Elite,70.0,May-2012,Android
+612,lg,LG Optimus L7 P700,58.0,May-2012,Android
+613,lg,LG Lucid,67.86,Apr-2012,Android
+614,lg,LG Optimus M plus,65.0,Apr-2012,Android
+615,lg,LG Viper,70.33,Apr-2012,Android
+616,lg,LG Optimus Vu F100S,56.67,Mar-2012,Android
+617,lg,LG Rumor Reflex,70.0,Mar-2012,Proprietary
+618,lg,LG Connect,63.33,Feb-2012,Android
+619,lg,LG Optimus L3 E400,53.13,Feb-2012,Android
+620,lg,LG Prada 3.0,73.64,Jan-2012,Android
+621,lg,LG Spectrum,66.18,Jan-2012,Android
+622,lg,LG T565,70.0,Jan-2012,Android
+623,lg,LG Nitro HD,72.4,Dec-2011,Android
+624,lg,LG Extravert,60.0,Nov-2011,Proprietary
+625,lg,LG Doubleplay,49.86,Oct-2011,Android
+626,lg,LG Esteem,75.0,Oct-2011,Android
+627,lg,LG Marquee,68.0,Oct-2011,Android
+628,lg,LG Optimus Hub,65.0,Oct-2011,Android
+629,lg,LG Optimus Slider,65.0,Oct-2011,Android
+630,lg,LG Enlighten,67.5,Sep-2011,Android
+631,lg,LG Optimus Pro,65.0,Sep-2011,Android
+632,lg,LG Optimus Sol,65.0,Sep-2011,Android
+633,lg,LG Thrill,80.0,Aug-2011,Android
+634,lg,LG Attune,40.0,Jul-2011,Proprietary
+635,lg,LG Cosmos 2,63.33,Jul-2011,Proprietary
+636,lg,LG Envoy,50.0,Jul-2011,Proprietary
+637,lg,LG Optimus 3D,70.0,Jul-2011,Android
+638,lg,LG Optimus 3D P920,80.0,Jul-2011,Android
+639,lg,LG Optimus Net,60.0,Jul-2011,Android
+640,lg,LG Optimus Spirit P690,65.0,Jul-2011,Android
+641,lg,LG Revere,70.0,Jul-2011,Proprietary
+642,lg,LG Genesis,74.67,Jun-2011,Android
+643,lg,LG Optimus Black,71.67,May-2011,Android
+644,lg,LG Revolution,66.43,May-2011,Android
+645,lg,LG Phoenix,68.33,Apr-2011,Android
+646,lg,LG Saber,60.0,Apr-2011,Proprietary
+647,lg,LG Thrive,70.0,Apr-2011,Android
+648,lg,LG Optimus 2X,78.5,Feb-2011,Android
+649,lg,LG Optimus Me P350,58.75,Feb-2011,Android
+650,lg,LG Optimus V,70.0,Jan-2011,Android
+651,lg,LG Cosmos Touch,57.5,Dec-2010,Proprietary
+652,lg,LG Optimus S,71.0,Dec-2010,Android
+653,lg,LG Select,60.0,Dec-2010,Proprietary
+654,lg,LG Vortex,69.75,Dec-2010,Android
+655,lg,LG Apex,60.0,Nov-2010,Android
+656,lg,LG Optimus 7,77.86,Nov-2010,Windows
+657,lg,LG Optimus Chic,70.0,Nov-2010,Android
+658,lg,LG Optimus M,75.0,Nov-2010,Android
+659,lg,LG Banter Touch,70.0,Oct-2010,Android
+660,lg,LG Cookie Style,60.0,Oct-2010,Proprietary
+661,lg,LG Encore,60.0,Oct-2010,Proprietary
+662,lg,LG Octane,58.75,Oct-2010,Proprietary
+663,lg,LG Optimus 7Q,60.0,Oct-2010,Windows
+664,lg,LG Optimus One,74.0,Oct-2010,Android
+665,lg,LG Optimus T,77.4,Oct-2010,Android
+666,lg,LG Prime GS390,70.0,Oct-2010,Proprietary
+667,lg,LG Quantum,71.25,Oct-2010,Windows
+668,lg,LG Town C300,40.0,Oct-2010,Proprietary
+669,lg,LG Cookie 3G,65.0,Sep-2010,Proprietary
+670,lg,LG Cookie Lite,47.5,Sep-2010,Proprietary
+671,lg,LG Neon II,58.33,Sep-2010,Proprietary
+672,lg,LG Clout,80.0,Aug-2010,Proprietary
+673,lg,LG Town GT350,62.5,Aug-2010,Proprietary
+674,lg,LG Cosmos,70.0,Jul-2010,Proprietary
+675,lg,LG dLite,76.67,Jul-2010,Proprietary
+676,lg,LG GS170,56.67,Jul-2010,Proprietary
+677,lg,LG Fathom,57.5,Jun-2010,Windows
+678,lg,LG GT540 Optimus,60.0,Jun-2010,Android
+679,lg,LG Optimus GT540,70.0,Jun-2010,Android
+680,lg,LG Sentio GS505,60.0,Jun-2010,Proprietary
+681,lg,LG Viewty Snap GM360,50.0,Jun-2010,Proprietary
+682,lg,LG Vu Plus,62.5,Jun-2010,Proprietary
+683,lg,LG Ally,74.8,May-2010,Android
+684,lg,LG Cookie Gig KM570,65.0,May-2010,Proprietary
+685,lg,LG Cookie Fresh,63.33,Apr-2010,Proprietary
+686,lg,LG Cookie Plus GS500,72.5,Apr-2010,Proprietary
+687,lg,LG GD880 Mini,66.67,Apr-2010,Proprietary
+688,lg,LG Remarq,61.67,Apr-2010,Proprietary
+689,lg,LG Viewty GT,60.0,Apr-2010,Proprietary
+690,lg,LG Imprint,70.0,Mar-2010,Proprietary
+691,lg,LG Rumor Touch,75.0,Mar-2010,Proprietary
+692,lg,LG Accolade VX5600,66.67,Feb-2010,Proprietary
+693,meizu,Meizu Pro 6,62.25,May-2016,Android
+694,meizu,Meizu m3 note,73.17,Apr-2016,Android
+695,meizu,Meizu PRO 5,80.0,Oct-2015,Android
+696,meizu,Meizu MX5,69.6,Jul-2015,Android
+697,meizu,Meizu M2 Note,78.0,Jun-2015,Android
+698,meizu,Meizu M1 Note,76.67,Jan-2015,Android
+699,meizu,Meizu MX4 Pro,82.5,Dec-2014,Android
+700,meizu,Meizu MX4,73.0,Sep-2014,Android
+701,meizu,Meizu MX,69.67,Mar-2012,Android
+702,micromax,Micromax Canvas 6,70.0,May-2016,Android
+703,micromax,Micromax Canvas 5,70.0,Nov-2015,Android
+704,micromax,Micromax Canvas Selfie 2,60.0,Aug-2015,Android
+705,micromax,Micromax Canvas Xpress 2,80.0,Aug-2015,Android
+706,micromax,Micromax Canvas Sliver 5,84.0,Jul-2015,Android
+707,micromax,Micromax E471 Canvas Knight 2,70.0,Jun-2015,Android
+708,micromax,Micromax Canvas Unite 3,60.0,May-2015,Android
+709,micromax,Micromax Q391 Canvas Doodle 4,55.0,May-2015,Android
+710,micromax,Micromax Canvas Spark,60.0,Apr-2015,Android
+711,micromax,Micromax Canvas Selfie,70.0,Feb-2015,Android
+712,micromax,Micromax Canvas Hue,65.0,Jan-2015,Android
+713,micromax,Micromax A315 Canvas 4 Plus,70.0,Oct-2014,Android
+714,micromax,Micromax A310 Canvas Nitro,75.0,Sep-2014,Android
+715,micromax,Micromax Canvas A1,76.33,Sep-2014,Android
+716,micromax,Micromax A106 Unite 2,70.0,May-2014,Android
+717,micromax,Micromax A350 Canvas Knight,68.33,Mar-2014,Android
+718,micromax,Micromax A200 Canvas Turbo Mini,70.0,Jan-2014,Android
+719,micromax,Micromax A250 Canvas Turbo,65.0,Oct-2013,Android
+720,micromax,Micromax A240 Canvas Doodle 2,60.0,Aug-2013,Android
+721,micromax,Micromax A210 Canvas 4,65.0,Jul-2013,Android
+722,micromax,Micromax A115 Canvas 3D,57.5,May-2013,Android
+723,micromax,Micromax A88 Canvas Music,60.0,May-2013,Android
+724,micromax,Micromax A116 Canvas HD,70.0,Feb-2013,Android
+725,micromax,Micromax A35 Bolt,40.0,Feb-2013,Android
+726,micromax,Micromax A27 Bolt,60.0,Jan-2013,Android
+727,micromax,Micromax A110 Canvas 2,60.0,Nov-2012,Android
+728,micromax,Micromax A100 Canvas,80.0,Aug-2012,Android
+729,micromax,Micromax A50 Ninja,55.0,May-2012,Android
+730,micromax,Micromax A75 Superfone Lite,60.0,Dec-2011,Android
+731,micromax,Micromax A85,60.0,Nov-2011,Android
+732,micromax,Micromax A70,75.0,Jul-2011,Android
+733,micromax,Micromax Q80,70.0,Jul-2011,Proprietary
+734,micromax,Micromax X450 Van Gogh,75.0,Jul-2011,Proprietary
+735,micromax,Micromax A55 Bling 2,50.0,May-2011,Android
+736,micromax,Micromax M2,65.0,Apr-2011,Proprietary
+737,micromax,Micromax A60 Andro,60.0,Nov-2010,Android
+738,micromax,Micromax Modu T,60.0,Oct-2010,Proprietary
+739,microsoft,Microsoft Lumia 650,64.55,Feb-2016,Windows
+740,microsoft,Microsoft Lumia 950,65.65,Dec-2015,Windows
+741,microsoft,Microsoft Lumia 950 XL,71.14,Dec-2015,Windows
+742,microsoft,Microsoft Lumia 550,65.5,Dec-2015,Windows
+743,microsoft,Microsoft Lumia 540,60.0,May-2015,Windows
+744,microsoft,Microsoft Lumia 640,79.2,Apr-2015,Windows
+745,microsoft,Microsoft Lumia 640 XL,76.73,Mar-2015,Windows
+746,microsoft,Microsoft Lumia 435,65.38,Mar-2015,Windows
+747,microsoft,Microsoft Lumia 532,57.0,Feb-2015,Windows
+748,microsoft,Microsoft Lumia 535,64.75,Dec-2014,Windows
+749,microsoft,Microsoft Kin One,62.78,May-2010,Windows
+750,microsoft,Microsoft Kin Two,60.0,May-2010,Windows
+751,motorola,Motorola Moto Z3,72.85,Aug-2018,Android
+752,motorola,Motorola Moto Z3 Play,72.47,Jun-2018,Android
+753,motorola,Motorola Moto E5 plus,71.11,May-2018,Android
+754,motorola,Motorola Moto G6 Plus,82.93,May-2018,Android
+755,motorola,Motorola Moto G6 Play,78.27,May-2018,Android
+756,motorola,Motorola Moto G6,81.29,Apr-2018,Android
+757,motorola,Motorola Moto X4,76.2,Oct-2017,Android
+758,motorola,Motorola Moto G5S Plus,81.69,Aug-2017,Android
+759,motorola,Motorola Moto Z2 Force,77.82,Aug-2017,Android
+760,motorola,Motorola Moto E4,76.9,Jun-2017,Android
+761,motorola,Motorola Moto Z2 Play,80.48,Jun-2017,Android
+762,motorola,Motorola Moto G5,79.95,Mar-2017,Android
+763,motorola,Motorola Moto G5 Plus,84.0,Mar-2017,Android
+764,motorola,Motorola Moto Z,80.52,Sep-2016,Android
+765,motorola,Motorola Moto Z Force,84.46,Sep-2016,Android
+766,motorola,Motorola Moto Z Play,81.7,Sep-2016,Android
+767,motorola,Motorola Moto G4 Play,71.33,Aug-2016,Android
+768,motorola,Motorola Moto G4,82.7,May-2016,Android
+769,motorola,Motorola Moto G4 plus,78.94,May-2016,Android
+770,motorola,Motorola Moto X Force,84.4,Nov-2015,Android
+771,motorola,Motorola Droid Turbo 2,82.0,Oct-2015,Android
+772,motorola,Motorola Droid Maxx 2,77.29,Oct-2015,Android
+773,motorola,Motorola Moto X Style (X Pure),82.58,Sep-2015,Android
+774,motorola,Motorola Moto X Play,82.83,Aug-2015,Android
+775,motorola,Motorola Moto G 2015,84.33,Jul-2015,Android
+776,motorola,Motorola Moto Turbo,80.0,Mar-2015,Android
+777,motorola,Motorola Moto E 2015,79.97,Feb-2015,Android
+778,motorola,Motorola Nexus 6,82.02,Nov-2014,Android
+779,motorola,Motorola Droid Turbo,84.43,Oct-2014,Android
+780,motorola,Motorola Moto G 2014,83.82,Sep-2014,Android
+781,motorola,Motorola Moto X 2014,85.85,Sep-2014,Android
+782,motorola,Motorola Moto E,76.46,May-2014,Android
+783,motorola,Motorola Moto G,85.46,Nov-2013,Android
+784,motorola,Motorola Droid Maxx,77.38,Aug-2013,Android
+785,motorola,Motorola Droid Mini,76.17,Aug-2013,Android
+786,motorola,Motorola Droid Ultra,69.7,Aug-2013,Android
+787,motorola,Motorola Moto X,80.25,Aug-2013,Android
+788,motorola,Motorola Droid Razr Maxx HD,78.71,Nov-2012,Android
+789,motorola,Motorola Electrify M,75.0,Nov-2012,Android
+790,motorola,Motorola Droid Razr HD,77.8,Oct-2012,Android
+791,motorola,Motorola Razr i,83.75,Oct-2012,Android
+792,motorola,Motorola Droid Razr M,79.17,Sep-2012,Android
+793,motorola,Motorola Razr HD,76.93,Sep-2012,Android
+794,motorola,Motorola Photon Q,70.55,Aug-2012,Android
+795,motorola,Motorola Atrix HD,74.58,Jul-2012,Android
+796,motorola,Motorola Electrify 2,74.67,Jul-2012,Android
+797,motorola,Motorola Razr V,72.5,Jun-2012,Android
+798,motorola,Motorola Razr Maxx,76.0,May-2012,Android
+799,motorola,Motorola Gleam Plus,53.33,Apr-2012,Proprietary
+800,motorola,Motorola Defy XT,55.0,Mar-2012,Android
+801,motorola,Motorola Motoluxe,63.33,Mar-2012,Android
+802,motorola,Motorola Defy Mini,55.5,Feb-2012,Android
+803,motorola,Motorola Droid 4,75.07,Feb-2012,Android
+804,motorola,Motorola Droid Razr Maxx,81.62,Jan-2012,Android
+805,motorola,Motorola Droid Razr,79.23,Nov-2011,Android
+806,motorola,Motorola Pro,55.0,Nov-2011,Android
+807,motorola,Motorola Pro plus,73.75,Nov-2011,Android
+808,motorola,Motorola Razr,83.06,Nov-2011,Android
+809,motorola,Motorola Admiral,74.0,Oct-2011,Android
+810,motorola,Motorola Atrix 2,78.6,Oct-2011,Android
+811,motorola,Motorola Defy plus,70.94,Sep-2011,Android
+812,motorola,Motorola Droid Bionic,80.83,Sep-2011,Android
+813,motorola,Motorola Fire,50.0,Sep-2011,Android
+814,motorola,Motorola Fire XT,60.0,Sep-2011,Android
+815,motorola,Motorola Photon Electrify,79.64,Aug-2011,Android
+816,motorola,Motorola Droid 3,70.92,Jul-2011,Android
+817,motorola,Motorola Wilder,60.0,Jul-2011,Proprietary
+818,motorola,Motorola i412,55.0,Jun-2011,Android
+819,motorola,Motorola Titanium,55.0,Jun-2011,Android
+820,motorola,Motorola Triumph,72.0,Jun-2011,Android
+821,motorola,Motorola XPRT,71.4,Jun-2011,Android
+822,motorola,Motorola Clutch i475,65.0,May-2011,Proprietary
+823,motorola,Motorola Droid X2,76.25,May-2011,Android
+824,motorola,Motorola Gleam,55.0,May-2011,Proprietary
+825,motorola,Motorola Atrix,79.76,Apr-2011,Android
+826,motorola,Motorola Theory,65.0,Apr-2011,Proprietary
+827,motorola,Motorola Cliq 2,70.83,Mar-2011,Android
+828,motorola,Motorola Bali,60.0,Feb-2011,Proprietary
+829,motorola,Motorola WX345,70.0,Feb-2011,Proprietary
+830,motorola,Motorola Brute i686,70.0,Jan-2011,Proprietary
+831,motorola,Motorola ES400S,65.0,Jan-2011,Android
+832,motorola,Motorola i886,70.0,Jan-2011,Android
+833,motorola,Motorola Bravo,67.5,Nov-2010,Android
+834,motorola,Motorola Citrus,53.0,Nov-2010,Android
+835,motorola,Motorola Droid Pro,77.5,Nov-2010,Android
+836,motorola,Motorola Flipside,60.0,Nov-2010,Android
+837,motorola,Motorola Defy,77.26,Oct-2010,Android
+838,motorola,Motorola Milestone 2,79.62,Oct-2010,Android
+839,motorola,Motorola Grasp,65.0,Sep-2010,Proprietary
+840,motorola,Motorola Charm,62.5,Aug-2010,Android
+841,motorola,Motorola Droid 2,76.11,Aug-2010,Android
+842,motorola,Motorola Quench XT5,85.0,Aug-2010,Android
+843,motorola,Motorola Rambler,65.0,Aug-2010,Proprietary
+844,motorola,Motorola Droid X,86.1,Jul-2010,Android
+845,motorola,Motorola i1,71.75,Jul-2010,Android
+846,motorola,Motorola Milestone XT720,76.54,Jul-2010,Android
+847,motorola,Motorola Flipout,63.57,Jun-2010,Android
+848,motorola,Motorola i296,50.0,Jun-2010,Android
+849,motorola,Motorola MotoSmart,40.0,Jun-2010,Android
+850,motorola,Motorola Milestone XT701,80.0,May-2010,Android
+851,motorola,Motorola Quench,70.0,Apr-2010,Android
+852,motorola,Motorola WX395,60.0,Apr-2010,Proprietary
+853,motorola,Motorola Backflip,60.11,Mar-2010,Android
+854,motorola,Motorola Cliq XT,73.14,Mar-2010,Android
+855,motorola,Motorola Devour,67.63,Mar-2010,Android
+856,motorola,Motorola i890,70.0,Mar-2010,Android
+857,motorola,Motorola Brute i680,75.0,Jan-2010,Proprietary
+858,nokia,Nokia 7.1,76.39,Oct-2018,Android
+859,nokia,Nokia 8 Sirocco,74.33,Apr-2018,Android
+860,nokia,Nokia 8,81.22,Sep-2017,Android
+861,nokia,Nokia 5,72.45,Jul-2017,Android
+862,nokia,Nokia 3,61.07,Jun-2017,Android
+863,nokia,Nokia 3310,53.08,May-2017,Proprietary
+864,nokia,Nokia 6,71.08,Jan-2017,Android
+865,nokia,Nokia 220,60.0,Feb-2015,Proprietary
+866,nokia,Nokia 215,70.0,Jan-2015,Proprietary
+867,nokia,Nokia 130,60.0,Sep-2014,Windows
+868,nokia,Nokia Lumia 730 Dual SIM,81.0,Sep-2014,Windows
+869,nokia,Nokia Lumia 735,76.43,Sep-2014,Windows
+870,nokia,Nokia Lumia 830,73.97,Sep-2014,Windows
+871,nokia,Nokia Lumia 530,58.8,Aug-2014,Windows
+872,nokia,Nokia Lumia 930,83.09,Jul-2014,Windows
+873,nokia,Nokia X2 Dual SIM,70.0,Jul-2014,Android
+874,nokia,Nokia Lumia 635,71.89,Jun-2014,Windows
+875,nokia,Nokia 225,60.0,May-2014,Proprietary
+876,nokia,Nokia Lumia 630,76.6,May-2014,Windows
+877,nokia,Nokia XL,60.0,May-2014,Android
+878,nokia,Nokia X,50.56,Mar-2014,Android
+879,nokia,Nokia X Dual SIM,67.5,Mar-2014,Android
+880,nokia,Nokia Lumia Icon,80.94,Feb-2014,Windows
+881,nokia,Nokia Lumia 1320,69.43,Jan-2014,Windows
+882,nokia,Nokia Lumia 525,71.6,Jan-2014,Windows
+883,nokia,Nokia 106,60.0,Nov-2013,Proprietary
+884,nokia,Nokia Asha 503,50.0,Nov-2013,Proprietary
+885,nokia,Nokia Lumia 1520,81.59,Nov-2013,Windows
+886,nokia,Nokia 108,40.0,Oct-2013,Proprietary
+887,nokia,Nokia 515,60.0,Sep-2013,Proprietary
+888,nokia,Nokia Lumia 625,69.52,Aug-2013,Windows
+889,nokia,Nokia Lumia 1020,79.16,Jul-2013,Windows
+890,nokia,Nokia Asha 501,54.17,Jun-2013,Proprietary
+891,nokia,Nokia Lumia 925,80.0,Jun-2013,Windows
+892,nokia,Nokia 105,50.0,May-2013,Proprietary
+893,nokia,Nokia Asha 210,60.0,May-2013,Proprietary
+894,nokia,Nokia Asha 210 Dual SIM,70.0,May-2013,Proprietary
+895,nokia,Nokia Lumia 928,76.07,May-2013,Windows
+896,nokia,Nokia 301,40.0,Apr-2013,Proprietary
+897,nokia,Nokia Lumia 520,77.62,Apr-2013,Windows
+898,nokia,Nokia Lumia 521,64.71,Apr-2013,Windows
+899,nokia,Nokia Lumia 720,75.5,Apr-2013,Windows
+900,nokia,Nokia Asha 310,65.0,Mar-2013,Proprietary
+901,nokia,Nokia Lumia 620,80.57,Jan-2013,Windows
+902,nokia,Nokia Asha 309,45.0,Dec-2012,Proprietary
+903,nokia,Nokia 206,65.0,Nov-2012,Proprietary
+904,nokia,Nokia Asha 205,65.0,Nov-2012,Proprietary
+905,nokia,Nokia Lumia 510,60.0,Nov-2012,Windows
+906,nokia,Nokia Lumia 810,66.89,Nov-2012,Windows
+907,nokia,Nokia Lumia 820,72.35,Nov-2012,Windows
+908,nokia,Nokia Lumia 822,72.13,Nov-2012,Windows
+909,nokia,Nokia 113,60.0,Sep-2012,Proprietary
+910,nokia,Nokia Lumia 920,79.63,Sep-2012,Windows
+911,nokia,Nokia Asha 311,51.67,Aug-2012,Proprietary
+912,nokia,Nokia Asha 305,50.0,Jul-2012,Proprietary
+913,nokia,Nokia Asha 306,6.67,Jul-2012,Proprietary
+914,nokia,Nokia 808 PureView,64.1,Jun-2012,Proprietary
+915,nokia,Nokia Lumia 900,77.6,May-2012,Windows
+916,nokia,Nokia Lumia 610,70.56,Apr-2012,Windows
+917,nokia,Nokia Asha 302,72.5,Mar-2012,Proprietary
+918,nokia,Nokia Asha 201,60.0,Feb-2012,Proprietary
+919,nokia,Nokia Asha 200,76.67,Dec-2011,Proprietary
+920,nokia,Nokia Asha 303,60.0,Dec-2011,Proprietary
+921,nokia,Nokia Lumia 710,75.0,Dec-2011,Windows
+922,nokia,Nokia Asha 300,55.0,Nov-2011,Proprietary
+923,nokia,Nokia Lumia 800,81.52,Nov-2011,Windows
+924,nokia,Nokia 603,65.0,Oct-2011,Symbian
+925,nokia,Nokia 500,57.5,Sep-2011,Symbian
+926,nokia,Nokia 700,66.5,Sep-2011,Symbian
+927,nokia,Nokia 701,73.33,Sep-2011,Symbian
+928,nokia,Nokia C2-03,63.33,Sep-2011,Proprietary
+929,nokia,Nokia N9,69.86,Sep-2011,Proprietary
+930,nokia,Nokia C2-00,80.0,Jul-2011,Proprietary
+931,nokia,Nokia E6,70.0,Jun-2011,Symbian
+932,nokia,Nokia X7-00,54.58,Jun-2011,Symbian
+933,nokia,Nokia E6-00,40.0,May-2011,Symbian
+934,nokia,Nokia C7 Astound,73.5,Apr-2011,Symbian
+935,nokia,Nokia C2-01,65.0,Mar-2011,Proprietary
+936,nokia,Nokia E7,64.06,Feb-2011,Symbian
+937,nokia,Nokia X2,66.67,Feb-2011,Android
+938,nokia,Nokia C1-02,60.0,Jan-2011,Proprietary
+939,nokia,Nokia X2-01,77.5,Jan-2011,Proprietary
+940,nokia,Nokia C5-03,50.0,Dec-2010,Symbian
+941,nokia,Nokia C6-01,67.0,Nov-2010,Symbian
+942,nokia,Nokia C3-01 Touch and Type,73.57,Oct-2010,Proprietary
+943,nokia,Nokia C7,62.5,Oct-2010,Symbian
+944,nokia,Nokia N8,70.87,Oct-2010,Symbian
+945,nokia,Nokia 5250,45.0,Sep-2010,Symbian
+946,nokia,Nokia X3 Touch and Type X3-02,69.44,Sep-2010,Proprietary
+947,nokia,Nokia X5-01,80.0,Sep-2010,Symbian
+948,nokia,Nokia E5,71.36,Aug-2010,Symbian
+949,nokia,Nokia C6,58.75,Jul-2010,Symbian
+950,nokia,Nokia C3,64.55,Jun-2010,Proprietary
+951,nokia,Nokia E73 Mode,72.83,Jun-2010,Symbian
+952,nokia,Nokia C6-00,46.67,May-2010,Symbian
+953,nokia,Nokia 6700 Slide,66.67,Apr-2010,Symbian
+954,nokia,Nokia C5,69.44,Apr-2010,Symbian
+955,nokia,Nokia 7230,66.67,Feb-2010,Proprietary
+956,nokia,Nokia 5233,85.0,Jan-2010,Symbian
+957,oneplus,OnePlus 6T,89.28,Nov-2018,Android
+958,oneplus,OnePlus 6,89.97,May-2018,Android
+959,oneplus,OnePlus 5T,88.62,Nov-2017,Android
+960,oneplus,OnePlus 5,85.5,Jun-2017,Android
+961,oneplus,OnePlus 3T,90.46,Nov-2016,Android
+962,oneplus,OnePlus 3,90.23,Jun-2016,Android
+963,oneplus,OnePlus X,76.11,Nov-2015,Android
+964,oneplus,OnePlus 2,83.0,Aug-2015,Android
+965,oneplus,OnePlus One,85.26,Jun-2014,Android
+966,oppo,Oppo Find X,75.87,Jun-2018,Android
+967,oppo,Oppo R9s,81.75,Oct-2016,Android
+968,oppo,Oppo F1 Plus,72.5,Mar-2016,Android
+969,oppo,Oppo F1,73.5,Jan-2016,Android
+970,oppo,Oppo R7s,82.0,Dec-2015,Android
+971,oppo,Oppo Mirror 5,74.67,Aug-2015,Android
+972,oppo,Oppo R7 Plus,76.83,May-2015,Android
+973,oppo,Oppo R7,75.5,May-2015,Android
+974,oppo,Oppo Mirror 3,60.0,Jan-2015,Android
+975,oppo,Oppo R1x,75.0,Jan-2015,Android
+976,oppo,Oppo N3,77.13,Dec-2014,Android
+977,oppo,Oppo R5,68.0,Dec-2014,Android
+978,oppo,Oppo N1 Mini,73.33,Aug-2014,Android
+979,oppo,Oppo Neo 5,65.33,Aug-2014,Android
+980,oppo,Oppo Find 7,81.58,May-2014,Android
+981,oppo,Oppo Joy,55.0,May-2014,Android
+982,oppo,Oppo Find 7a,85.29,Mar-2014,Android
+983,oppo,Oppo R1,70.0,Dec-2013,Android
+984,oppo,Oppo N1,81.55,Oct-2013,Android
+985,oppo,Oppo R819,80.0,Sep-2013,Android
+986,oppo,Oppo Find 5,73.33,Feb-2013,Android
+987,panasonic,Panasonic Eluga Icon,60.0,Aug-2015,Android
+988,panasonic,Panasonic Eluga U,65.0,Aug-2014,Android
+989,panasonic,Panasonic Toughpad FZ E1,60.0,Jul-2014,Android
+990,panasonic,Panasonic P81,70.0,Jun-2014,Android
+991,panasonic,Panasonic P51,75.0,Oct-2013,Android
+992,panasonic,Panasonic T31,60.0,Oct-2013,Android
+993,panasonic,Panasonic T21,60.0,Sep-2013,Android
+994,panasonic,Panasonic P11,50.0,Aug-2013,Android
+995,panasonic,Panasonic Eluga,60.0,Apr-2012,Android
+996,panasonic,Panasonic Eluga dL1,60.0,Apr-2012,Android
+997,pantech,Pantech Vybe,65.0,May-2014,Android
+998,pantech,Pantech Breeze IV,45.0,Nov-2013,Proprietary
+999,pantech,Pantech Perception,62.0,Apr-2013,Android
+1000,pantech,Pantech Discover,76.25,Jan-2013,Android
+1001,pantech,Pantech Flex,66.0,Sep-2012,Android
+1002,pantech,Pantech Marauder,65.0,Aug-2012,Android
+1003,pantech,Pantech Renue,53.33,Jul-2012,Proprietary
+1004,pantech,Pantech Swift,56.67,Jun-2012,Proprietary
+1005,pantech,Pantech Burst,73.71,Jan-2012,Proprietary
+1006,pantech,Pantech Pocket,58.6,Dec-2011,Android
+1007,pantech,Pantech Hotshot,50.0,Oct-2011,Android
+1008,pantech,Pantech Link II,60.0,Oct-2011,Proprietary
+1009,pantech,Pantech Verse,50.0,Oct-2011,Proprietary
+1010,pantech,Pantech Breakout,68.83,Sep-2011,Android
+1011,pantech,Pantech Breeze III,70.0,Jul-2011,Proprietary
+1012,pantech,Pantech Pursuit II,56.67,Jul-2011,Proprietary
+1013,pantech,Pantech Crossover,66.67,Jun-2011,Android
+1014,pantech,Pantech Crux,60.0,Nov-2010,Proprietary
+1015,pantech,Pantech Laser,70.0,Oct-2010,Proprietary
+1016,pantech,Pantech CDM8635,70.0,Jun-2010,Proprietary
+1017,pantech,Pantech Ease,61.67,Jun-2010,Proprietary
+1018,pantech,Pantech Jest,56.67,Jun-2010,Proprietary
+1019,pantech,Pantech Jest 2,50.0,Jun-2010,Proprietary
+1020,pantech,Pantech Pursuit,68.33,Jun-2010,Proprietary
+1021,pantech,Pantech Breeze II,70.0,Apr-2010,Proprietary
+1022,pantech,Pantech Link,66.67,Apr-2010,Proprietary
+1023,pantech,Pantech Caper,60.0,Mar-2010,Proprietary
+1024,samsung,Samsung Galaxy A7 2018,76.17,Oct-2018,Android
+1025,samsung,Samsung Galaxy Note 9,89.05,Aug-2018,Android
+1026,samsung,Samsung Galaxy A6 plus,70.71,May-2018,Android
+1027,samsung,Samsung Galaxy S9,87.48,Mar-2018,Android
+1028,samsung,Samsung Galaxy S9 plus,88.89,Mar-2018,Android
+1029,samsung,Samsung Galaxy A8 2018,79.0,Jan-2018,Android
+1030,samsung,Samsung Galaxy Note 8,89.46,Sep-2017,Android
+1031,samsung,Samsung Galaxy S8 Active,86.27,Aug-2017,Android
+1032,samsung,Samsung Galaxy J5 2017,84.57,Jun-2017,Android
+1033,samsung,Samsung Galaxy S8,92.91,Apr-2017,Android
+1034,samsung,Samsung Galaxy S8 plus,89.94,Apr-2017,Android
+1035,samsung,Samsung Galaxy A3 2017,82.86,Jan-2017,Android
+1036,samsung,Samsung Galaxy A5 2017,79.64,Jan-2017,Android
+1037,samsung,Samsung Galaxy A7 2017,77.33,Jan-2017,Android
+1038,samsung,Samsung Galaxy Note 7,87.8,Sep-2016,Android
+1039,samsung,Samsung Galaxy S7 active,87.45,Jun-2016,Android
+1040,samsung,Samsung Galaxy J5 2016,78.75,Apr-2016,Android
+1041,samsung,Samsung Galaxy J7 2016,65.83,Apr-2016,Android
+1042,samsung,Samsung Galaxy S7,93.45,Mar-2016,Android
+1043,samsung,Samsung Galaxy S7 Edge,93.03,Mar-2016,Android
+1044,samsung,Samsung Galaxy J3,67.08,Jan-2016,Android
+1045,samsung,Samsung Galaxy A3 2016,80.38,Dec-2015,Android
+1046,samsung,Samsung Galaxy A5 2016,82.63,Dec-2015,Android
+1047,samsung,Samsung Galaxy A7 2016,73.25,Dec-2015,Android
+1048,samsung,Samsung Galaxy On5,65.0,Nov-2015,Android
+1049,samsung,Samsung Galaxy On7,77.5,Nov-2015,Android
+1050,samsung,Samsung Galaxy Note 5,87.15,Aug-2015,Android
+1051,samsung,Samsung Galaxy S6 Edge plus,86.41,Aug-2015,Android
+1052,samsung,Samsung Galaxy A8,78.17,Jul-2015,Android
+1053,samsung,Samsung Galaxy S6 Active,86.64,Jun-2015,Android
+1054,samsung,Samsung Galaxy J5,87.5,Jun-2015,Android
+1055,samsung,Samsung Galaxy J7,80.0,Jun-2015,Android
+1056,samsung,Samsung Galaxy S6,93.92,Apr-2015,Android
+1057,samsung,Samsung Galaxy S6 Edge,88.24,Apr-2015,Android
+1058,samsung,Samsung Galaxy Xcover 3,84.0,Apr-2015,Android
+1059,samsung,Samsung Galaxy A7,81.67,Feb-2015,Android
+1060,samsung,Samsung Galaxy E5,60.0,Feb-2015,Android
+1061,samsung,Samsung Galaxy E7,60.0,Feb-2015,Android
+1062,samsung,Samsung Galaxy J1,63.0,Feb-2015,Android
+1063,samsung,Samsung Galaxy Prevail LTE,60.0,Jan-2015,Android
+1064,samsung,Samsung Galaxy A3,76.86,Dec-2014,Android
+1065,samsung,Samsung Galaxy A5,76.28,Dec-2014,Android
+1066,samsung,Samsung Galaxy Note Edge,81.43,Nov-2014,Android
+1067,samsung,Samsung Galaxy Core Prime,59.0,Nov-2014,Android
+1068,samsung,Samsung Galaxy Note 4,90.35,Oct-2014,Android
+1069,samsung,Samsung Galaxy Young 2,33.33,Oct-2014,Android
+1070,samsung,Samsung Galaxy Grand Prime,59.0,Oct-2014,Android
+1071,samsung,Samsung Galaxy Alpha,81.63,Sep-2014,Android
+1072,samsung,Samsung Galaxy Mega 2,70.0,Sep-2014,Android
+1073,samsung,Samsung Galaxy Ace 4,65.0,Aug-2014,Android
+1074,samsung,Samsung Galaxy Avant,60.0,Jul-2014,Android
+1075,samsung,Samsung Galaxy S5 Mini,77.89,Jul-2014,Android
+1076,samsung,Samsung Galaxy K Zoom,72.05,Jun-2014,Android
+1077,samsung,Samsung Galaxy S5 Sport,79.5,Jun-2014,Android
+1078,samsung,Samsung Galaxy Ace Style,47.5,May-2014,Android
+1079,samsung,Samsung Galaxy S5 Active,85.42,May-2014,Android
+1080,samsung,Samsung ATIV SE,80.0,Apr-2014,Windows
+1081,samsung,Samsung Galaxy S5,86.21,Apr-2014,Android
+1082,samsung,Samsung Galaxy Grand Neo,50.0,Feb-2014,Android
+1083,samsung,Samsung Galaxy Note 3 Neo,75.0,Feb-2014,Android
+1084,samsung,Samsung Galaxy Grand 2,71.25,Jan-2014,Android
+1085,samsung,Samsung Galaxy Trend Plus,70.0,Dec-2013,Android
+1086,samsung,Samsung Galaxy Express 2,67.25,Oct-2013,Android
+1087,samsung,Samsung Galaxy Light,63.33,Oct-2013,Android
+1088,samsung,Samsung Galaxy Round,90.0,Oct-2013,Android
+1089,samsung,Samsung Galaxy Trend,40.0,Oct-2013,Android
+1090,samsung,Samsung Galaxy Note 3,87.18,Sep-2013,Android
+1091,samsung,Samsung Ativ S Neo,70.63,Aug-2013,Windows
+1092,samsung,Samsung Galaxy Ace 3,67.45,Jul-2013,Android
+1093,samsung,Samsung Galaxy Admire 2,60.0,Jul-2013,Android
+1094,samsung,Samsung Galaxy Prevail 2,60.0,Jul-2013,Android
+1095,samsung,Samsung Galaxy S4 Mini,76.85,Jul-2013,Android
+1096,samsung,Samsung Galaxy S4 Zoom,68.8,Jul-2013,Android
+1097,samsung,Samsung Gravity Q,40.0,Jul-2013,Proprietary
+1098,samsung,Samsung Freeform 5,60.0,Jun-2013,Proprietary
+1099,samsung,Samsung Galaxy Core,66.67,Jun-2013,Android
+1100,samsung,Samsung Galaxy Mega 6.3,73.6,Jun-2013,Android
+1101,samsung,Samsung Galaxy Pocket Neo,65.0,Jun-2013,Android
+1102,samsung,Samsung Galaxy S4 Active,84.19,Jun-2013,Android
+1103,samsung,Samsung Galaxy Amp,60.0,May-2013,Android
+1104,samsung,Samsung Galaxy Exhibit,52.5,May-2013,Android
+1105,samsung,Samsung Galaxy Mega 5.8,70.0,May-2013,Android
+1106,samsung,Samsung Galaxy S4,87.09,Apr-2013,Android
+1107,samsung,Samsung Galaxy Express,71.25,Mar-2013,Android
+1108,samsung,Samsung Galaxy Fame,58.33,Mar-2013,Android
+1109,samsung,Samsung Galaxy Xcover 2,80.0,Mar-2013,Android
+1110,samsung,Samsung Galaxy Young,55.56,Mar-2013,Android
+1111,samsung,Samsung Rex 70,40.0,Mar-2013,Proprietary
+1112,samsung,Samsung Rex 80,60.0,Mar-2013,Proprietary
+1113,samsung,Samsung Rex 90,45.0,Mar-2013,Proprietary
+1114,samsung,Samsung Galaxy S II Plus,75.0,Feb-2013,Android
+1115,samsung,Samsung Ativ Odyssey,64.73,Jan-2013,Windows
+1116,samsung,Samsung Galaxy Grand,73.33,Jan-2013,Android
+1117,samsung,Samsung Ativ S,80.5,Dec-2012,Windows
+1118,samsung,Samsung Galaxy Admire,56.67,Dec-2012,Android
+1119,samsung,Samsung Galaxy Music,55.0,Dec-2012,Android
+1120,samsung,Samsung Galaxy Reverb,60.0,Dec-2012,Android
+1121,samsung,Samsung Rugby 3,40.0,Dec-2012,Proprietary
+1122,samsung,Samsung Galaxy Axiom,75.0,Nov-2012,Android
+1123,samsung,Samsung Galaxy Discover,60.0,Nov-2012,Android
+1124,samsung,Samsung Galaxy S III Mini,69.85,Nov-2012,Android
+1125,samsung,Samsung Galaxy Stratosphere II,73.33,Nov-2012,Android
+1126,samsung,Samsung Freeform 4,60.0,Oct-2012,Proprietary
+1127,samsung,Samsung Galaxy Rugby Pro,73.71,Oct-2012,Android
+1128,samsung,Samsung M400,70.0,Oct-2012,Proprietary
+1129,samsung,Samsung Array,60.0,Sep-2012,Proprietary
+1130,samsung,Samsung Galaxy Note II,86.21,Sep-2012,Android
+1131,samsung,Samsung Galaxy Rush,60.0,Sep-2012,Android
+1132,samsung,Samsung Galaxy S Duos,77.0,Sep-2012,Android
+1133,samsung,Samsung Galaxy S Relay,68.83,Sep-2012,Android
+1134,samsung,Samsung Galaxy Victory,68.0,Sep-2012,Android
+1135,samsung,Samsung Montage,60.0,Sep-2012,Proprietary
+1136,samsung,Samsung Entro,60.0,Aug-2012,Proprietary
+1137,samsung,Samsung Galaxy Chat,67.5,Aug-2012,Android
+1138,samsung,Samsung Galaxy S Lightray,60.0,Aug-2012,Android
+1139,samsung,Samsung Galaxy Stellar,68.2,Aug-2012,Android
+1140,samsung,Samsung T159,60.0,Aug-2012,Proprietary
+1141,samsung,Samsung Galaxy Beam,72.22,Jul-2012,Android
+1142,samsung,Samsung Intensity III,65.0,Jul-2012,Proprietary
+1143,samsung,Samsung Jitterbug Plus,70.0,Jul-2012,Proprietary
+1144,samsung,Samsung Chrono 2,60.0,Jun-2012,Proprietary
+1145,samsung,Samsung Galaxy Exhilarate,66.75,Jun-2012,Android
+1146,samsung,Samsung Focus 2,67.67,May-2012,Windows
+1147,samsung,Samsung Galaxy Ace 2,75.0,May-2012,Android
+1148,samsung,Samsung Galaxy Player 4.2,45.0,May-2012,Android
+1149,samsung,Samsung Galaxy S III,90.14,May-2012,Android
+1150,samsung,Samsung Galaxy Pocket,77.5,Apr-2012,Android
+1151,samsung,Samsung Galaxy S Advance,80.0,Apr-2012,Android
+1152,samsung,Samsung Brightside,43.33,Mar-2012,Proprietary
+1153,samsung,Samsung Galaxy Mini 2,60.71,Mar-2012,Android
+1154,samsung,Samsung Galaxy S Blaze,73.43,Mar-2012,Android
+1155,samsung,Samsung Gusto 2,70.0,Mar-2012,Proprietary
+1156,samsung,Samsung Rugby Smart,71.0,Mar-2012,Android
+1157,samsung,Samsung Galaxy Ace Duos,50.0,Feb-2012,Android
+1158,samsung,Samsung Galaxy Ace Plus,55.0,Feb-2012,Android
+1159,samsung,Samsung Galaxy Attain,57.5,Feb-2012,Android
+1160,samsung,Samsung Tocco Lite 2 Star 3,60.0,Feb-2012,Proprietary
+1161,samsung,Samsung Champ Deluxe Duos,40.0,Jan-2012,Proprietary
+1162,samsung,Samsung Galaxy Y Pro Duos,70.0,Jan-2012,Android
+1163,samsung,Samsung SPH-M370,60.0,Jan-2012,Proprietary
+1164,samsung,Samsung Wave M,65.0,Dec-2011,Bada
+1165,samsung,Samsung Captivate Glide,70.13,Nov-2011,Android
+1166,samsung,Samsung DoubleTime,41.0,Nov-2011,Android
+1167,samsung,Samsung Focus Flash,73.71,Nov-2011,Windows
+1168,samsung,Samsung Focus S,75.56,Nov-2011,Windows
+1169,samsung,Samsung Galaxy Nexus,81.77,Nov-2011,Android
+1170,samsung,Samsung Galaxy S II Skyrocket,85.0,Nov-2011,Android
+1171,samsung,Samsung Galaxy Y Pro,60.0,Nov-2011,Android
+1172,samsung,Samsung Illusion,63.33,Nov-2011,Android
+1173,samsung,Samsung Repp,60.0,Nov-2011,Android
+1174,samsung,Samsung Wave Y,63.33,Nov-2011,Bada
+1175,samsung,Samsung Exhibit II,71.67,Oct-2011,Android
+1176,samsung,Samsung Galaxy Extreme Xcover,65.0,Oct-2011,Android
+1177,samsung,Samsung Galaxy Note,78.52,Oct-2011,Android
+1178,samsung,Samsung Galaxy Player 3.6,40.0,Oct-2011,Android
+1179,samsung,Samsung Galaxy W,68.33,Oct-2011,Android
+1180,samsung,Samsung Galaxy Y,58.64,Oct-2011,Android
+1181,samsung,Samsung Omnia W,70.71,Oct-2011,Windows
+1182,samsung,Samsung Stratosphere,68.75,Oct-2011,Android
+1183,samsung,Samsung Transform Ultra,73.33,Oct-2011,Android
+1184,samsung,Samsung Wave 3,65.83,Oct-2011,Bada
+1185,samsung,Samsung Admire,65.0,Sep-2011,Android
+1186,samsung,Samsung Epic Touch,84.0,Sep-2011,Android
+1187,samsung,Samsung Galaxy S II Epic 4G Touch,80.0,Sep-2011,Android
+1188,samsung,Samsung Conquer,75.4,Aug-2011,Android
+1189,samsung,Samsung Convoy 2,70.0,Aug-2011,Proprietary
+1190,samsung,Samsung Galaxy R,80.0,Aug-2011,Android
+1191,samsung,Samsung Gravity Txt,50.0,Aug-2011,Proprietary
+1192,samsung,Samsung Character,70.0,Jul-2011,Proprietary
+1193,samsung,Samsung Freeform III,60.0,Jul-2011,Proprietary
+1194,samsung,Samsung Galaxy S Plus,80.0,Jul-2011,Android
+1195,samsung,Samsung Wave 578,60.0,Jul-2011,Bada
+1196,samsung,Samsung Chrono,55.0,Jun-2011,Proprietary
+1197,samsung,Samsung Dart,46.67,Jun-2011,Android
+1198,samsung,Samsung Exhibit,76.0,Jun-2011,Android
+1199,samsung,Samsung Gravity Smart,50.0,Jun-2011,Android
+1200,samsung,Samsung Trender,61.67,Jun-2011,Proprietary
+1201,samsung,Samsung Droid Charge,79.25,May-2011,Android
+1202,samsung,Samsung Infuse,78.0,May-2011,Android
+1203,samsung,Samsung Replenish,68.33,May-2011,Android
+1204,samsung,Samsung Solid Immerse,66.0,May-2011,Proprietary
+1205,samsung,Samsung Tocco Quick Tap,0.0,May-2011,Proprietary
+1206,samsung,Samsung Corby IIÂ S3850,40.0,Apr-2011,Proprietary
+1207,samsung,Samsung Galaxy Prevail,75.0,Apr-2011,Android
+1208,samsung,Samsung Galaxy Pro,50.63,Apr-2011,Android
+1209,samsung,Samsung Galaxy S Aviator,70.0,Apr-2011,Android
+1210,samsung,Samsung Galaxy S II,91.07,Apr-2011,Android
+1211,samsung,Samsung Factor,60.0,Mar-2011,Proprietary
+1212,samsung,Samsung Galaxy Fit,65.45,Mar-2011,Android
+1213,samsung,Samsung Galaxy Gio,75.0,Mar-2011,Android
+1214,samsung,Samsung Suede,60.0,Mar-2011,Proprietary
+1215,samsung,Samsung Galaxy Ace,64.69,Feb-2011,Android
+1216,samsung,Samsung Galaxy Indulge,70.0,Feb-2011,Android
+1217,samsung,Samsung Galaxy Mini,63.89,Feb-2011,Android
+1218,samsung,Samsung Gem,50.0,Feb-2011,Proprietary
+1219,samsung,Samsung Indulge,60.0,Feb-2011,Android
+1220,samsung,Samsung Tocco Icon Star II,55.83,Feb-2011,Proprietary
+1221,samsung,Samsung T259,71.67,Jan-2011,Proprietary
+1222,samsung,Samsung Chat 335,70.0,Dec-2010,Proprietary
+1223,samsung,Samsung Nexus S,82.19,Dec-2010,Android
+1224,samsung,Samsung A197,50.0,Nov-2010,Proprietary
+1225,samsung,Samsung C3530,45.0,Nov-2010,Proprietary
+1226,samsung,Samsung Continuum,78.0,Nov-2010,Android
+1227,samsung,Samsung Contour,50.0,Nov-2010,Android
+1228,samsung,Samsung Evergreen,66.67,Nov-2010,Proprietary
+1229,samsung,Samsung Focus,80.38,Nov-2010,Windows
+1230,samsung,Samsung Messager III,60.0,Nov-2010,Proprietary
+1231,samsung,Samsung Solstice II,56.67,Nov-2010,Proprietary
+1232,samsung,Samsung SPH-M360,60.0,Nov-2010,Proprietary
+1233,samsung,Samsung Wave II,72.0,Nov-2010,Bada
+1234,samsung,Samsung Zeal,65.0,Nov-2010,Proprietary
+1235,samsung,Samsung A187,70.0,Oct-2010,Proprietary
+1236,samsung,Samsung Freeform II,70.0,Oct-2010,Proprietary
+1237,samsung,Samsung M360,60.0,Oct-2010,Proprietary
+1238,samsung,Samsung Mesmerize,85.0,Oct-2010,Android
+1239,samsung,Samsung Omnia 7,82.0,Oct-2010,Windows
+1240,samsung,Samsung Transform,69.67,Oct-2010,Android
+1241,samsung,Samsung Wave 525,65.0,Oct-2010,Bada
+1242,samsung,Samsung Wave 533,65.0,Oct-2010,Bada
+1243,samsung,Samsung Wave 723,66.0,Oct-2010,Bada
+1244,samsung,Samsung Craft,70.0,Sep-2010,Proprietary
+1245,samsung,Samsung Epic,86.13,Sep-2010,Android
+1246,samsung,Samsung Galaxy 580,60.0,Sep-2010,Android
+1247,samsung,Samsung I5510,70.0,Sep-2010,Android
+1248,samsung,Samsung T249,50.0,Sep-2010,Proprietary
+1249,samsung,Samsung T369,60.0,Sep-2010,Proprietary
+1250,samsung,Samsung Eternity II,61.25,Aug-2010,Proprietary
+1251,samsung,Samsung Fascinate,81.43,Aug-2010,Android
+1252,samsung,Samsung Flight II,56.67,Aug-2010,Proprietary
+1253,samsung,Samsung Galaxy 5 Europa,63.75,Aug-2010,Android
+1254,samsung,Samsung Gusto,53.33,Aug-2010,Proprietary
+1255,samsung,Samsung Vibrant,76.43,Aug-2010,Android
+1256,samsung,Samsung Acclaim,60.0,Jul-2010,Android
+1257,samsung,Samsung Captivate,79.38,Jul-2010,Android
+1258,samsung,Samsung Galaxy 3,80.0,Jul-2010,Android
+1259,samsung,Samsung Galaxy Apollo,66.67,Jul-2010,Android
+1260,samsung,Samsung Haven,53.33,Jul-2010,Proprietary
+1261,samsung,Samsung Intensity II,65.0,Jul-2010,Proprietary
+1262,samsung,Samsung Intercept,68.4,Jul-2010,Android
+1263,samsung,Samsung Monte Slider,57.5,Jul-2010,Proprietary
+1264,samsung,Samsung B7722,70.0,Jun-2010,Proprietary
+1265,samsung,Samsung Champ,70.0,Jun-2010,Proprietary
+1266,samsung,Samsung Galaxy S,87.17,Jun-2010,Android
+1267,samsung,Samsung Gravity 3,75.0,Jun-2010,Proprietary
+1268,samsung,Samsung Gravity T,65.0,Jun-2010,Proprietary
+1269,samsung,Samsung Restore,71.67,Jun-2010,Proprietary
+1270,samsung,Samsung Rugby II,60.0,Jun-2010,Proprietary
+1271,samsung,Samsung Smiley,70.0,Jun-2010,Proprietary
+1272,samsung,Samsung T359,60.0,Jun-2010,Proprietary
+1273,samsung,Samsung A107,60.0,May-2010,Proprietary
+1274,samsung,Samsung M575,70.0,May-2010,Proprietary
+1275,samsung,Samsung Messager Touch,70.0,May-2010,Proprietary
+1276,samsung,Samsung Seek,66.67,May-2010,Proprietary
+1277,samsung,Samsung Stride,50.0,May-2010,Proprietary
+1278,samsung,Samsung Corby TV SCH-F339,60.0,Apr-2010,Proprietary
+1279,samsung,Samsung Exec,70.0,Apr-2010,Windows
+1280,samsung,Samsung Reality,69.33,Apr-2010,Proprietary
+1281,samsung,Samsung Wave,77.33,Apr-2010,Bada
+1282,samsung,Samsung Diva Folder S5150,65.0,Mar-2010,Proprietary
+1283,samsung,Samsung Jet Ultra,60.0,Mar-2010,Proprietary
+1284,samsung,Samsung Monte,70.0,Mar-2010,Proprietary
+1285,samsung,Samsung Shark,80.0,Mar-2010,Proprietary
+1286,samsung,Samsung Shark 2,82.0,Mar-2010,Proprietary
+1287,samsung,Samsung Strive,61.0,Mar-2010,Proprietary
+1288,samsung,Samsung Sunburst,69.0,Mar-2010,Proprietary
+1289,samsung,Samsung Caliber,70.0,Feb-2010,Proprietary
+1290,samsung,Samsung Diva S7070,63.75,Feb-2010,Proprietary
+1291,samsung,Samsung T139,60.0,Feb-2010,Proprietary
+1292,samsung,Samsung Galaxy Portal,71.67,Jan-2010,Android
+1293,samsung,Samsung Genoa C3510,61.67,Jan-2010,Proprietary
+1294,samsung,Samsung Stunt,50.0,Jan-2010,Proprietary
+1295,sharp,Sharp Aquos Crystal,73.82,Aug-2014,Android
+1296,sharp,Sharp Aquos 104SH,80.0,Apr-2012,Android
+1297,sharp,Sharp FX Plus,60.0,Aug-2011,Android
+1298,sharp,Sharp FX,58.75,Jul-2010,Proprietary
+1299,sonim,Sonim XP7,73.75,Mar-2015,Android
+1300,sonim,Sonim XP6,60.0,Nov-2014,Android
+1301,sonim,Sonim Land Rover S2,80.0,Mar-2013,Proprietary
+1302,sonim,Sonim XP Strike,67.5,Dec-2012,Proprietary
+1303,sonim,Sonim XP3300 Force,75.0,Mar-2011,Proprietary
+1304,sonim,Sonim XP1300 Core,70.0,Nov-2010,Proprietary
+1305,sony,Sony Xperia XZ3,82.57,Oct-2018,Android
+1306,sony,Sony Xperia XZ2 Premium,67.22,Jul-2018,Android
+1307,sony,Sony Xperia XZ2,78.59,Mar-2018,Android
+1308,sony,Sony Xperia XZ2 Compact,83.1,Mar-2018,Android
+1309,sony,Sony Xperia XA2,84.0,Feb-2018,Android
+1310,sony,Sony Xperia XA2 Ultra,74.63,Feb-2018,Android
+1311,sony,Sony Xperia XZ1 Compact,80.0,Oct-2017,Android
+1312,sony,Sony Xperia XZ1,74.13,Sep-2017,Android
+1313,sony,Sony Xperia XZ Premium,81.18,Jun-2017,Android
+1314,sony,Sony Xperia L1,69.0,Jun-2017,Android
+1315,sony,Sony Xperia XZs,75.5,Apr-2017,Android
+1316,sony,Sony Xperia XA1,74.14,Apr-2017,Android
+1317,sony,Sony Xperia XZ,77.68,Oct-2016,Android
+1318,sony,Sony Xperia X Compact,72.31,Sep-2016,Android
+1319,sony,Sony Xperia XA Ultra,75.0,Jul-2016,Android
+1320,sony,Sony Xperia XA,62.35,Jun-2016,Android
+1321,sony,Sony Xperia E5,74.0,Jun-2016,Android
+1322,sony,Sony Xperia X,67.35,May-2016,Android
+1323,sony,Sony Xperia Z5 Premium,78.42,Nov-2015,Android
+1324,sony,Sony Xperia Z5,80.47,Oct-2015,Android
+1325,sony,Sony Xperia Z5 Compact,84.36,Oct-2015,Android
+1326,sony,Sony Xperia C5 Ultra,83.67,Aug-2015,Android
+1327,sony,Sony Xperia M5,74.86,Aug-2015,Android
+1328,sony,Sony Xperia Z3 Plus,67.0,Jun-2015,Android
+1329,sony,Sony Xperia C4,73.0,Jun-2015,Android
+1330,sony,Sony Xperia M4 Aqua,74.65,Apr-2015,Android
+1331,sony,Sony Xperia E4g,71.67,Apr-2015,Android
+1332,sony,Sony Xperia E4,75.33,Mar-2015,Android
+1333,sony,Sony Xperia E3,72.29,Sep-2014,Android
+1334,sony,Sony Xperia M2 Aqua,74.4,Sep-2014,Android
+1335,sony,Sony Xperia Z3,86.51,Sep-2014,Android
+1336,sony,Sony Xperia Z3 Compact,91.44,Sep-2014,Android
+1337,sony,Sony Xperia C3,70.0,Aug-2014,Android
+1338,sony,Sony Xperia C3 Dual SIM,78.0,Aug-2014,Android
+1339,sony,Sony Xperia T3,73.93,Jul-2014,Android
+1340,sony,Sony Xperia M2,70.86,May-2014,Android
+1341,sony,Sony Xperia T2 Ultra,74.6,May-2014,Android
+1342,sony,Sony Xperia M2 Dual,75.0,Apr-2014,Android
+1343,sony,Sony Xperia Z2,85.05,Apr-2014,Android
+1344,sony,Sony Xperia E1,58.0,Mar-2014,Android
+1345,sony,Sony Xperia E1 Dual,60.0,Mar-2014,Android
+1346,sony,Sony Xperia T2 Ultra Dual,80.0,Mar-2014,Android
+1347,sony,Sony Xperia Z1 Compact,90.56,Jan-2014,Android
+1348,sony,Sony Xperia Z1,81.47,Sep-2013,Android
+1349,sony,Sony Xperia M,64.13,Aug-2013,Android
+1350,sony,Sony Xperia C,80.0,Jul-2013,Android
+1351,sony,Sony Xperia Z Ultra,76.04,Jul-2013,Android
+1352,sony,Sony Xperia ZR,67.5,Jun-2013,Android
+1353,sony,Sony Xperia L,72.33,May-2013,Android
+1354,sony,Sony Xperia SP,79.11,Apr-2013,Android
+1355,sony,Sony Xperia ZL,70.5,Mar-2013,Android
+1356,sony,Sony Xperia Z,80.38,Feb-2013,Android
+1357,sony,Sony Xperia E dual,62.5,Jan-2013,Android
+1358,sony,Sony Xperia TL,68.57,Nov-2012,Android
+1359,sony,Sony Xperia J,52.86,Oct-2012,Android
+1360,sony,Sony Xperia TX,75.0,Oct-2012,Android
+1361,sony,Sony Xperia Miro,58.33,Sep-2012,Android
+1362,sony,Sony Xperia SL,65.0,Sep-2012,Android
+1363,sony,Sony Xperia T,76.73,Sep-2012,Android
+1364,sony,Sony Xperia Acro S,78.0,Aug-2012,Android
+1365,sony,Sony Xperia Tipo,65.5,Aug-2012,Android
+1366,sony,Sony Xperia Go,68.67,Jul-2012,Android
+1367,sony,Sony Xperia Ion,58.45,Jun-2012,Android
+1368,sony,Sony Xperia Neo L,60.0,Jun-2012,Android
+1369,sony,Sony Xperia P,74.89,May-2012,Android
+1370,sony,Sony Xperia Sola,65.0,May-2012,Android
+1371,sony,Sony Xperia U,71.0,May-2012,Android
+1372,sony,Sony Xperia S,75.14,Feb-2012,Android
+1373,sony,Sony Ericsson Live with Walkman,77.0,Oct-2011,Android
+1374,sony,Sony Ericsson Xperia Active,71.88,Oct-2011,Android
+1375,sony,Sony Ericsson Xperia Neo V,60.0,Oct-2011,Android
+1376,sony,Sony Ericsson Xperia pro,78.33,Oct-2011,Android
+1377,sony,Sony Ericsson Xperia Arc S,79.38,Sep-2011,Android
+1378,sony,Sony Ericsson Mix Walkman,66.67,Aug-2011,Proprietary
+1379,sony,Sony Ericsson Xperia mini,81.67,Aug-2011,Android
+1380,sony,Sony Ericsson Xperia Mini Pro,80.92,Aug-2011,Android
+1381,sony,Sony Ericsson Xperia Ray,82.73,Aug-2011,Android
+1382,sony,Sony Ericsson txt pro,52.5,Jul-2011,Proprietary
+1383,sony,Sony Ericsson W8,65.0,May-2011,Android
+1384,sony,Sony Ericsson Xperia Arc,82.75,Mar-2011,Android
+1385,sony,Sony Ericsson Xperia Neo,71.82,Mar-2011,Android
+1386,sony,Sony Ericsson Xperia Play,72.32,Mar-2011,Android
+1387,sony,Sony Ericsson Cedar,64.17,Sep-2010,Proprietary
+1388,sony,Sony Ericsson Xperia X8,58.33,Sep-2010,Android
+1389,sony,Sony Ericsson Spiro,63.57,Aug-2010,Proprietary
+1390,sony,Sony Ericsson Zylo,67.14,Jul-2010,Proprietary
+1391,sony,Sony Ericsson Xperia X10 mini pro,77.33,Jun-2010,Android
+1392,sony,Sony Ericsson Hazel,75.0,May-2010,Proprietary
+1393,sony,Sony Ericsson Vivaz Pro,58.5,May-2010,Symbian
+1394,sony,Sony Ericsson Xperia X10 mini,71.36,May-2010,Android
+1395,sony,Sony Ericsson Elm,74.67,Mar-2010,Proprietary
+1396,sony,Sony Ericsson Vivaz,66.15,Mar-2010,Symbian
+1397,sony,Sony Ericsson Xperia X10,69.33,Mar-2010,Android
+1398,spice,Spice Dream Uno Mi-498,68.0,Sep-2014,Android
+1399,spice,Spice Fire One,50.0,Aug-2014,Android
+1400,spice,Spice Stellar Mi-526,80.0,Jul-2014,Android
+1401,spice,Spice SmartFlo Poise Mi-451,60.0,Jun-2014,Android
+1402,spice,Spice Flo Mettle 4X Mi-426,50.0,Jan-2014,Android
+1403,spice,Spice Coolpad Mi-515,55.0,Jun-2013,Android
+1404,spice,Spice Stellar Virtuoso Mi-495,46.67,Jan-2013,Android
+1405,spice,Spice Stellar Horizon Mi-500,57.5,Oct-2012,Android
+1406,spice,Spice Stellar Craze Mi-355,65.0,Aug-2012,Android
+1407,spice,Spice Stellar Mi-425,70.0,Jun-2012,Android
+1408,spice,Spice Mi-280,67.5,Feb-2012,Android
+1409,spice,Spice Mi-350,60.0,Oct-2011,Android
+1410,spice,Spice Mi-410,65.0,Jun-2011,Android
+1411,spice,Spice Mi-310,70.0,Apr-2011,Android
+1412,spice,Spice M-67 3D,60.0,Oct-2010,Proprietary
+1413,spice,Spice Mi-300,80.0,Aug-2010,Android
+1414,spice,Spice QT-66,80.0,Apr-2010,Android
+1415,vertu,Vertu Aster,80.0,Dec-2014,Android
+1416,vertu,Vertu Signature Touch,76.67,Jun-2014,Android
+1417,vertu,Vertu Constellation 2013,70.0,Oct-2013,Android
+1418,vivo,Vivo Nex S,77.0,Jun-2018,Android
+1419,vivo,Vivo V5s,76.8,May-2017,Android
+1420,vivo,Vivo V5 Plus,77.67,Jan-2017,Android
+1421,vivo,Vivo V5,70.0,Nov-2016,Android
+1422,vivo,Vivo V3 Max,75.75,Apr-2016,Android
+1423,vivo,Vivo V1 Max,65.0,Aug-2015,Android
+1424,vivo,Vivo X5Pro,65.0,Jun-2015,Android
+1425,vivo,Vivo Xshot,60.0,Mar-2015,Android
+1426,vivo,Vivo Y27,70.0,Dec-2014,Android
+1427,vivo,Vivo X5Max,70.0,Dec-2014,Android
+1428,xiaomi,Xiaomi Mi 8 Pro,84.5,Sep-2018,Android
+1429,xiaomi,Xiaomi Mi A2,79.6,Jul-2018,Android
+1430,xiaomi,Xiaomi Mi Mix 2S,81.71,Apr-2018,Android
+1431,xiaomi,Xiaomi Mi Mix 2,82.36,Sep-2017,Android
+1432,xiaomi,Xiaomi Mi Max 2,76.13,Jun-2017,Android
+1433,xiaomi,Xiaomi Mi 6,87.18,Apr-2017,Android
+1434,xiaomi,Xiaomi Redmi Note 4,81.2,Jan-2017,Android
+1435,xiaomi,Xiaomi Mi Mix,76.17,Oct-2016,Android
+1436,xiaomi,Xiaomi Mi Max,77.2,May-2016,Android
+1437,xiaomi,Xiaomi Mi 5,84.73,Apr-2016,Android
+1438,xiaomi,Xiaomi Mi 4s,77.5,Mar-2016,Android
+1439,xiaomi,Xiaomi Redmi 3,65.0,Jan-2016,Android
+1440,xiaomi,Xiaomi Redmi Note 3,77.8,Nov-2015,Android
+1441,xiaomi,Xiaomi Mi 4c,76.5,Sep-2015,Android
+1442,xiaomi,Xiaomi Redmi Note 2,83.38,Aug-2015,Android
+1443,xiaomi,Xiaomi Mi Note Pro,80.33,May-2015,Android
+1444,xiaomi,Xiaomi Mi 4i,76.71,Apr-2015,Android
+1445,xiaomi,Xiaomi Redmi 2,71.67,Jan-2015,Android
+1446,xiaomi,Xiaomi Mi Note,84.6,Jan-2015,Android
+1447,xiaomi,Xiaomi Mi 4,80.71,Aug-2014,Android
+1448,xiaomi,Xiaomi Redmi 1S,75.17,May-2014,Android
+1449,xiaomi,Xiaomi Redmi Note,80.14,Mar-2014,Android
+1450,xiaomi,Xiaomi Mi 3,81.25,Dec-2013,Android
+1451,xiaomi,Xiaomi Redmi,90.0,Aug-2013,Android
+1452,yota,YotaPhone 2,73.04,Dec-2014,Android
+1453,zte,ZTE Axon M,62.64,Nov-2017,Android
+1454,zte,ZTE Max XL,70.0,Apr-2017,Android
+1455,zte,ZTE Blade V8 Pro,72.33,Feb-2017,Android
+1456,zte,ZTE Axon 7 mini,67.0,Oct-2016,Android
+1457,zte,ZTE Zmax Pro,70.33,Jul-2016,Android
+1458,zte,ZTE Axon 7,81.0,Jun-2016,Android
+1459,zte,ZTE Grand X Max 2,72.25,May-2016,Android
+1460,zte,ZTE Grand X 3,70.0,Jan-2016,Android
+1461,zte,ZTE Axon mini,69.5,Nov-2015,Android
+1462,zte,ZTE Zmax 2,68.67,Sep-2015,Android
+1463,zte,ZTE Axon Elite,75.0,Sep-2015,Android
+1464,zte,ZTE Axon,80.25,Jul-2015,Android
+1465,zte,ZTE Axon Pro,72.5,Jul-2015,Android
+1466,zte,ZTE Boost Max plus,68.0,Jul-2015,Android
+1467,zte,ZTE Nubia Z9,66.0,Jun-2015,Android
+1468,zte,ZTE Nubia Z9 mini,60.0,Apr-2015,Android
+1469,zte,ZTE Blade S6 Plus,82.5,Apr-2015,Android
+1470,zte,ZTE Blade S6,76.07,Jan-2015,Android
+1471,zte,ZTE Grand X Max plus,72.43,Jan-2015,Android
+1472,zte,ZTE Star 2,88.0,Dec-2014,Android
+1473,zte,ZTE Speed,50.0,Dec-2014,Android
+1474,zte,ZTE Blade Vec,75.0,Nov-2014,Android
+1475,zte,ZTE Kis 3 Max,55.0,Nov-2014,Android
+1476,zte,ZTE Nubia 5s mini,75.0,Sep-2014,Android
+1477,zte,ZTE Zmax,66.0,Sep-2014,Android
+1478,zte,ZTE Warp Sync,65.0,Aug-2014,Android
+1479,zte,ZTE Grand S Pro,55.0,Jun-2014,Android
+1480,zte,ZTE Blade L2,50.0,May-2014,Android
+1481,zte,ZTE Kis 3,70.0,May-2014,Android
+1482,zte,ZTE Open C,51.67,May-2014,Firefox
+1483,zte,ZTE V5,60.0,Apr-2014,Android
+1484,zte,ZTE Blade Apex 2,60.0,Apr-2014,Android
+1485,zte,ZTE Sonata,60.0,Feb-2014,Android
+1486,zte,ZTE Blade Q Mini,66.67,Jan-2014,Android
+1487,zte,ZTE Boost Max,60.0,Jan-2014,Android
+1488,zte,ZTE Grand S Flex,60.0,Nov-2013,Android
+1489,zte,ZTE Blade V,72.75,Oct-2013,Android
+1490,zte,ZTE Source,60.0,Oct-2013,Android
+1491,zte,ZTE Blade G2,60.0,Sep-2013,Android
+1492,zte,ZTE Reef,60.0,Aug-2013,Android
+1493,zte,ZTE Open,61.0,Jul-2013,Firefox
+1494,zte,ZTE Prelude,50.0,Jul-2013,Android
+1495,zte,ZTE Imperial,60.0,Jun-2013,Android
+1496,zte,ZTE Overture,70.0,Jun-2013,Android
+1497,zte,ZTE Vital,0.0,Jun-2013,Android
+1498,zte,ZTE Director,51.0,Apr-2013,Android
+1499,zte,ZTE Grand X Pro,55.0,Apr-2013,Android
+1500,zte,ZTE Engage LT,50.0,Mar-2013,Android
+1501,zte,ZTE Force,72.5,Mar-2013,Android
+1502,zte,ZTE Altair,60.0,Feb-2013,Proprietary
+1503,zte,ZTE Avid,59.75,Dec-2012,Android
+1504,zte,ZTE Nubia 5,74.0,Dec-2012,Android
+1505,zte,ZTE Groove,50.0,Nov-2012,Android
+1506,zte,ZTE Engage,60.0,Oct-2012,Android
+1507,zte,ZTE Anthem,40.0,Sep-2012,Android
+1508,zte,ZTE Blade III,73.0,Sep-2012,Android
+1509,zte,ZTE Warp Sequent,65.0,Sep-2012,Android
+1510,zte,ZTE Grand X,64.08,Jul-2012,Android
+1511,zte,ZTE Kis,67.14,Jul-2012,Android
+1512,zte,ZTE Merit,60.0,Jul-2012,Android
+1513,zte,ZTE Fury,66.25,Mar-2012,Android
+1514,zte,ZTE Score M,46.67,Mar-2012,Android
+1515,zte,ZTE Tania,73.33,Feb-2012,Windows
+1516,zte,ZTE Chorus,45.0,Nov-2011,Proprietary
+1517,zte,ZTE Tureis,70.0,Oct-2011,Android
+1518,zte,ZTE Warp,65.25,Oct-2011,Android
+1519,zte,ZTE Score,40.0,Sep-2011,Android
+1520,zte,ZTE Skate,53.33,Sep-2011,Android
+1521,zte,ZTE Peel,65.0,Nov-2010,Proprietary
+1522,zte,ZTE Agent,50.0,Sep-2010,Proprietary
+1523,zte,ZTE Salute,60.0,Aug-2010,Proprietary
+1524,zte,ZTE Racer,62.86,Jul-2010,Android
